@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>punkbear&#39;s blog</title>
+  
+  <subtitle>make fun stuff</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://linguanghai.com/"/>
+  <updated>2020-05-11T03:34:24.747Z</updated>
+  <id>http://linguanghai.com/</id>
+  
+  <author>
+    <name>punkbear</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>走出“绝望谷”</title>
+    <link href="http://linguanghai.com/uncategorized/vod/"/>
+    <id>http://linguanghai.com/uncategorized/vod/</id>
+    <published>2020-05-11T02:57:18.000Z</published>
+    <updated>2020-05-11T03:34:24.747Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/vod/civ1.png" title="文明1"><p>昨天在看席德梅尔讲文明系列的开发故事《How Sid Meier Almost Made Civilization a Real-Time Strategy》<a href="https://www.bilibili.com/video/BV1Xz4y1R7MA。" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1Xz4y1R7MA。</a><br>同样作为开发者最让我能产生共鸣的是对“绝望谷”的描述。</p><h2 id="困境：绝望谷"><a href="#困境：绝望谷" class="headerlink" title="困境：绝望谷"></a>困境：绝望谷</h2><p>在刚开始开发文明系列的时候，他本来是要把游戏做成实时制。因为游戏的启发来自于《模拟人生》，模拟人生就是实时的展现游戏中的交互元素。所以席德梅尔想要在更大的范围内，模拟每一个文明的发展和灭亡。但是游戏开发到了一半，发现根本不好玩，同时游戏的节奏怎么都不对，最终项目放到了一边去做其他的产品了。</p><img src="/uncategorized/vod/vod.jpg" title="Valley Of Despair"><p>上面就是文明系列经历的绝望谷。每一款产品只要是做原创，不管类型如何都会陷入绝望谷。仿佛走到了一个死胡同，从当时的视角来看，无论做任何调整都不满意。到了最后要么停止项目，要么彻底推倒重来。</p><p>在经过了几个项目的开发以后，席德梅尔重新审视当时的文明项目，想到把实时制变成回合制。当项目变成回合制以后，魔力重新展现，游戏变得更好玩，一切的机制和元素都能很好的契合到这个节奏当中。</p><p>任何项目不管前期经历了多少的思考，到开发的阶段一定会遇到绝望谷。人类的大脑没办法在前期穷尽所有的可能性，只有在做的过程当中，一些答案才会清晰起来。前期的构思阶段更多是帮你降低决策的成本，但是这个成本永远会在那里等着你。</p><h2 id="走出绝望谷"><a href="#走出绝望谷" class="headerlink" title="走出绝望谷"></a>走出绝望谷</h2><p>如何走出绝望谷？说实话，我也不知道。回想自己做游戏的这些年，但凡是做原创的游戏，都会遇到这样那样的困境。我硬盘里面大量的游戏原型和半成品每天都在提醒我做出好的东西有多难。</p><p>在文明系列停止以后，席德梅尔期间完成了《隐秘行动》的开发工作。这是一款回合制的潜入游戏。可能是受到了这款游戏的影响，在引入了回合制以后，文明系列活了过来。</p><p>席德梅尔给出的建议：<strong>先停下来、尝试新的的东西、用全新的眼光审视之前遇到的问题</strong>。</p><img src="/uncategorized/vod/aoe.jpeg" title="帝国时代1"><p>最有趣的是席德梅尔的合伙人在离开了他以后做出了《帝国时代》系列。他自己本人也承认如果当时文明朝着实时制进展，最终展现出来的可能就是帝国时代。在一个更小的地图上，缩小决策范围，实时的影响游戏的进程。可以看到帝国时代走到了文明的相反的一面。但是同样保留了科技树等有趣的点子。</p><h2 id="寄语"><a href="#寄语" class="headerlink" title="寄语"></a>寄语</h2><p>希望每一个做东西的人都能走出自己的绝望谷。也希望那些躺在自己硬盘里的项目能有一天重新焕发魔力，和大家见面：）</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/vod/civ1.png&quot; title=&quot;文明1&quot;&gt;
+
+&lt;p&gt;昨天在看席德梅尔讲文明系列的开发故事《How Sid Meier Almost Made Civilization a Real-Time Strategy》&lt;a hr
+      
+    
+    </summary>
+    
+    
+    
+      <category term="文明, 帝国时代, 绝望谷, 席德梅尔" scheme="http://linguanghai.com/tags/%E6%96%87%E6%98%8E-%E5%B8%9D%E5%9B%BD%E6%97%B6%E4%BB%A3-%E7%BB%9D%E6%9C%9B%E8%B0%B7-%E5%B8%AD%E5%BE%B7%E6%A2%85%E5%B0%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小程序的的未来</title>
+    <link href="http://linguanghai.com/uncategorized/miniprogram/"/>
+    <id>http://linguanghai.com/uncategorized/miniprogram/</id>
+    <published>2020-05-08T02:35:52.000Z</published>
+    <updated>2020-05-08T02:43:24.717Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="回顾历史"><a href="#回顾历史" class="headerlink" title="回顾历史"></a>回顾历史</h2><img src="/uncategorized/miniprogram/App-Store.jpg"><p>2007年乔布斯发布iPhone的时候，当时是没有App Store的，苹果希望通过浏览器来发展h5应用。但是受限于当时的机能，h5应用是很难在体验和效率上和原生应用匹配的，直到2008年苹果才对外发布了SDK和App Store。紧接着开发者们如火如荼的为ios生态开发应用软件。塑造了苹果的行业地位。</p><h2 id="App"><a href="#App" class="headerlink" title="App"></a>App</h2><p>App经过10多年的发展，ios生态越来越丰富，你几乎可以找到任何你需要的应用。但是并不是所有的场景App都可以满足。</p><p>首先在分发上，用户每一次下载一个App的成本是极其高的，尤其是经过这么多年的发展，普通用户使用的App集中在一些超级应用上：微信，微博，淘宝，支付宝，抖音。其他App很难从这些App抢夺用户的时间，推广费用水涨船高，想要从头开始运营一款App的越来越难。</p><p>其次在审核的部分，众所周知苹果的应用审核非常的严格，一方面造成了应用质量的提升，另一方面延长了开发商从发布到运营的整个流程。尤其是游戏部分的热更新，2017年3月份苹果明确告知热更新被明令禁止。直到现在也是模糊地带。之所以苹果对这部分热更新睁一只眼闭一只眼，也是因为本身他们也很清楚这种分发模型不能很好的满足用户。</p><h2 id="Mini-Program"><a href="#Mini-Program" class="headerlink" title="Mini Program"></a>Mini Program</h2><img src="/uncategorized/miniprogram/wechat.jpeg"><img src="/uncategorized/miniprogram/facebook.jpeg"><p>2017年微信推出了微信小程序。小程序推出的目的就是在与降低用户的交易成本，达到无需下载，触手可达。紧接着包括头条、阿里、facebook等国内外的平台级应用也开始推出自己的小程序和小游戏。小程序可以很好的解决生产商和用户的痛点。</p><p>在我眼里更重要的是小程序天然具有比App更好的开放性。之前关于Web已死的文章中已经提到移动互联网的封闭和开放。每一个App都是信息的孤岛，但是小程序是可以天生拥有更好的连接和开放性的。</p><h2 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h2><p>通过现在的趋势以及随着5G的到来，将来的应用方式肯定是融合共存的。<br>平台级应用作为数字中枢承载用户的基础需求场景。其他的长尾需求则由小程序来承载。</p><p>移动互联经过10多年的发展又回到了2007年iPhone的原点，只不过这次不是通过浏览器来承载h5应用而是通过平台级应用承载小程序。</p><blockquote><p>历史虽然不会重复，但却有韵律。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;回顾历史&quot;&gt;&lt;a href=&quot;#回顾历史&quot; class=&quot;headerlink&quot; title=&quot;回顾历史&quot;&gt;&lt;/a&gt;回顾历史&lt;/h2&gt;&lt;img src=&quot;/uncategorized/miniprogram/App-Store.jpg&quot;&gt;
+
+&lt;p&gt;2007年乔布斯
+      
+    
+    </summary>
+    
+    
+    
+      <category term="小程序, iPhone, App Store" scheme="http://linguanghai.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F-iPhone-App-Store/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>井深大对索尼的愿景</title>
+    <link href="http://linguanghai.com/uncategorized/sonydesign/"/>
+    <id>http://linguanghai.com/uncategorized/sonydesign/</id>
+    <published>2020-05-03T03:39:57.000Z</published>
+    <updated>2020-05-03T03:56:33.175Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/sonydesign/walkman.jpg"><p>最近在阅读《索尼设计，塑造现代》。上一个像苹果一样让我发自内心的喜欢的公司就是索尼了。虽然进入移动互联网时代，索尼的存在感不像之前那么强，但是作为把模拟世界向数字世界转变的主要推动者，索尼的产品就算过了很多年回头去看还是有着自己独特的美学价值。</p><p>在探究索尼是如何设计出这些产品的时候，我看到井深大在索尼初创的时候对未来的愿景，从中或许能找到有价值的信息：</p><ul><li>充分发挥勤勉认真的技术人员的技能，建立一个自由豁达，轻松愉快的理想工厂</li><li>抛弃任何不正当追逐利润的行为，持续重视内容充实有实质意义的活动，不为了扩张而扩张</li><li>尽力精心挑选产品线，迎接技术上的挑战，不管需求的数量是多少，只关注那些对社会有最大作用的，技术最尖端的产品</li><li>要避免对电子，机械等形式的分类，而是结合这两个领域创造我们自己独特，让竞争对手无法超越的产品</li><li>要严格挑选员工，公司应该只由必要的员工组成，尽力避免形式上的登记结构，而是以能力和人格为导向来组织，这样每个个体才能最大程度发挥自己的技术与才干</li></ul><img src="/uncategorized/sonydesign/1998_WM-EX9.gif"><img src="/uncategorized/sonydesign/2003_D-NE10.gif"><p>也难怪乔帮主也是索尼的粉丝。把上面的愿景拿到现在也一点都不过时。产品是人创造出来的，而公司的文化和愿景则可以把人聚拢到一起。</p><p>在这里分享一个索尼walkman40周年的主题网站，上面有历代walkman的产品回顾。：<a href="https://www.sonystyle.com.cn/minisite/pa/media_player/walkman40th/index.htm" target="_blank" rel="noopener">https://www.sonystyle.com.cn/minisite/pa/media_player/walkman40th/index.htm</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/sonydesign/walkman.jpg&quot;&gt;
+
+&lt;p&gt;最近在阅读《索尼设计，塑造现代》。上一个像苹果一样让我发自内心的喜欢的公司就是索尼了。虽然进入移动互联网时代，索尼的存在感不像之前那么强，但是作为把模拟世界向数字世界转变的
+      
+    
+    </summary>
+    
+    
+    
+      <category term="索尼, 井深大" scheme="http://linguanghai.com/tags/%E7%B4%A2%E5%B0%BC-%E4%BA%95%E6%B7%B1%E5%A4%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>未来地图</title>
+    <link href="http://linguanghai.com/uncategorized/wtf/"/>
+    <id>http://linguanghai.com/uncategorized/wtf/</id>
+    <published>2020-04-23T03:57:58.000Z</published>
+    <updated>2020-04-23T04:00:47.061Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/wtf/image.jpg"><p>最近在阅读Tim O’Reilly的《未来地图》，还没读完，作为提出web2.0的概念的始作俑者，他在这本书中谈到了他对未来商业和技术的看法。</p><p>我觉得最有价值的章节就是对新一代经济的商业模型图。在这里分享给大家。当然没人可以预测未来，人类对于未来的预测是很糟糕的。但是相比较于未来的预测，Tim O’Reilly给出了一张思维地图，让你自己来填写。感兴趣的人可以看一下他在google发表的演讲：<a href="https://www.youtube.com/watch?v=s3ha6vHapcI" target="_blank" rel="noopener">Tim O’Reilly: “WTF?: What’s the Future and Why It’s Up to Us” | Talks at Google - YouTube</a></p><h2 id="新一地商业经济模型图"><a href="#新一地商业经济模型图" class="headerlink" title="新一地商业经济模型图"></a>新一地商业经济模型图</h2><h3 id="用信息替代物质"><a href="#用信息替代物质" class="headerlink" title="用信息替代物质"></a>用信息替代物质</h3><p>从1960年到2010年多数的汽车重量都增加了一倍，目的是为了防碰撞和安全。但是如果汽车变得非常智能和自动化，永远都不会发生碰撞，则可以去掉这些重量。</p><p>不管是柔性供应链还是特斯拉的超级工厂，我们都能看到信息正在逐渐取代物质的趋势。</p><h3 id="网络化市场平台"><a href="#网络化市场平台" class="headerlink" title="网络化市场平台"></a>网络化市场平台</h3><p>Netflix,Uber,Facebook,Amazon,淘宝,Youtube,Bilibili,Twitter,Apple都通过自己的产品和服务创造了双边的供需市场。用算法来管理平台，释放了巨大的力量。</p><h3 id="按需服务"><a href="#按需服务" class="headerlink" title="按需服务"></a>按需服务</h3><p>减少闲置资源的浪费，提高市场的效率和流动性，快速且低成本的匹配需求和供给。这里的按需服务也包括了人力和资源。</p><h3 id="算法管理"><a href="#算法管理" class="headerlink" title="算法管理"></a>算法管理</h3><p>未来的商业模型一定是自动化和计算密集型的。我们也将会越来越依赖算法给我们带来的好处。</p><h3 id="加强版员工"><a href="#加强版员工" class="headerlink" title="加强版员工"></a>加强版员工</h3><p>uber提高了司机导航和找到乘客的能力。<br>医生借助大数据快速定位患者的问题。<br>建筑师通过增强现实对施工现场快速建模。</p><h3 id="魔幻版用户体验"><a href="#魔幻版用户体验" class="headerlink" title="魔幻版用户体验"></a>魔幻版用户体验</h3><p>这个就是Aha moment。在你没有体验过的时候，甚至无法想象会是什么样的，但是体验了以后你就回不去了。推开一扇门看到了未来。</p><h2 id="未来迷人且不确定"><a href="#未来迷人且不确定" class="headerlink" title="未来迷人且不确定"></a>未来迷人且不确定</h2><p>2020年以来见到了太多的黑天鹅，甚至都有些见怪不怪了。深切的感受到有多股巨大的力量在推动着这个世界走向一个新的方向。未来是不确定的但是又是迷人的。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/wtf/image.jpg&quot;&gt;
+
+&lt;p&gt;最近在阅读Tim O’Reilly的《未来地图》，还没读完，作为提出web2.0的概念的始作俑者，他在这本书中谈到了他对未来商业和技术的看法。&lt;/p&gt;
+&lt;p&gt;我觉得最有价值的章节就是对新一代
+      
+    
+    </summary>
+    
+    
+    
+      <category term="书籍" scheme="http://linguanghai.com/tags/%E4%B9%A6%E7%B1%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2020 一切的起点</title>
+    <link href="http://linguanghai.com/uncategorized/2020guideline/"/>
+    <id>http://linguanghai.com/uncategorized/2020guideline/</id>
+    <published>2020-04-22T15:12:01.000Z</published>
+    <updated>2020-04-22T15:20:18.326Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/2020guideline/img.jpeg"><p>今年外部环境变得复杂、艰难。每个人都受到了疫情的影响，但是危机当中蕴含着机遇。保持积极的心态，深度思考，快速行动。</p><p>这一份行动手册是给自己的一个督促，同时也希望和身边的朋友共勉。</p><p>行动手册：</p><ul><li>少消费，多创造</li><li>不要熬夜，早点睡觉</li><li>谁都不能预测未来，做好手上的事情</li><li>不要追求完美，不要想的太多，快速执行落地</li><li>多交朋友，多交流，不要封闭自己</li><li>不要担心做的东西不好，至少那个是你创造的东西</li><li>经济形势，疫情发展会影响每一个人，你要做的是如何适应，而不是杞人忧天</li><li>多关心一下身边的朋友和家人</li><li>保持耐心，保持冷静</li><li>保持谦逊和感恩</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/2020guideline/img.jpeg&quot;&gt;
+
+&lt;p&gt;今年外部环境变得复杂、艰难。每个人都受到了疫情的影响，但是危机当中蕴含着机遇。保持积极的心态，深度思考，快速行动。&lt;/p&gt;
+&lt;p&gt;这一份行动手册是给自己的一个督促，同时也希
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>机器人叛乱,AI,自然界的去中心化</title>
+    <link href="http://linguanghai.com/uncategorized/automata/"/>
+    <id>http://linguanghai.com/uncategorized/automata/</id>
+    <published>2019-05-04T07:32:53.000Z</published>
+    <updated>2019-06-17T17:02:48.213Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/automata/fuzai.jpeg"><p>五一假期还有一天就结束了，今天带着福仔去医院看病，在做检查的时候我可以拿起一本很久之前就买完放在kindle里的《机器人叛乱》读了起来。</p><p>这个假期我除了完成了EOS钱包部分的认证以外还顺便把游戏的寻路进行了集成。看着自己写的实体经过行为树的决策进行自动的寻路和运动，又联想到《自私的基因》中对于基因和模因的阐述，突然之间我对斯坦诺维奇关于人类是由基因和模因控制的机器人这一点产生了强烈的共鸣。</p><img src="/uncategorized/automata/submarine.gif"><p>福仔因为泌尿系统的问题导致排尿困难，这也是他的基因在控制他。再往前一步自然界中有1000多万个物种，人类也好，猫也好只是其中的一种。每一个物种都有庞大基因库控制着他们的行为和情绪，但是这个基因库没有中心化的中枢控制他们进化的每一步。联想到比特币和区块链催生的去中心化架构。为了实现效率的最大化，人类世界无论是政府和企业的组织方式还是计算服务的供给都趋向于中心化。但是为什么自然界却可以使用去中心化的方式来实现进化呢？这难道不是低效的表现吗？</p><img src="/uncategorized/automata/decentralize.jpg"><p>联想到《失控》中凯文凯利对于分布式系统和中心化系统的比较，我想随着数据的爆炸，中心化系统已经到了某种理论的瓶颈没办法统筹和运行系统的方方面面。这个时候去中心化的系统就会登上历史的舞台和自然界一样，用去中心化的方式进行演化。</p><p>另一个方面，不论市场，金融，网络，政治，社会这些系统都是对自然界的模拟。供需法则控制着价格的变化，但是人类只能预测趋势但是不能精确控制它。去中心化的系统让我们不能再向之前那样控制系统的方方面面，失去控制力的同是我们得到的是更大的计算能力，处理能力。</p><p>Ray Dalio认为进化是生命最大的成就和回报，个体的不幸很多时候可能会促进整体的进化。站在更高层次思考和抽象，抽离设计者和工作者的角色可以帮助你战胜基因和模因对你的裹挟，完成“机器人”的叛乱。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/automata/fuzai.jpeg&quot;&gt;
+&lt;p&gt;五一假期还有一天就结束了，今天带着福仔去医院看病，在做检查的时候我可以拿起一本很久之前就买完放在kindle里的《机器人叛乱》读了起来。&lt;/p&gt;
+&lt;p&gt;这个假期我除了完成了EOS钱
+      
+    
+    </summary>
+    
+    
+    
+      <category term="去中心化, 机器人叛乱, 进化" scheme="http://linguanghai.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%9B%E4%B9%B1-%E8%BF%9B%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>《消灭病毒》游戏分析</title>
+    <link href="http://linguanghai.com/uncategorized/destroyvirus/"/>
+    <id>http://linguanghai.com/uncategorized/destroyvirus/</id>
+    <published>2019-03-27T05:27:48.000Z</published>
+    <updated>2019-06-17T17:02:48.292Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/destroyvirus/virus.jpg"><p>3.26日下午玩了一会儿，目前的进度是解锁了第二个副武器，打到了21关。</p><h2 id="核心创意"><a href="#核心创意" class="headerlink" title="核心创意"></a>核心创意</h2><p>表面上这款游戏是STG但是实际上是一款消除游戏。通过操纵本机发射子弹让病毒分裂或者消除。在去掉了STG中高难度的弹幕闪避以后降低了玩家的操作难度，同时能够体验消除的爽快感。所以核心的体验就要围绕<strong>消除</strong>展开。</p><h2 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h2><h3 id="病毒"><a href="#病毒" class="headerlink" title="病毒"></a>病毒</h3><ul><li>病毒是由简洁的外形和突出的生命值让玩家直观的看到自己消除的进度。</li><li>运动速度和体积成反比，相对的体积越大越容易消除。</li><li>病毒的在下方移出以后还会从上方移入，这样降低了玩家的心智负担，只需要关注在上方的病毒</li><li>病毒会产生黏连和加血的行为模式，带来了除了数值，体积，移动速度以外的差异</li></ul><h3 id="道具"><a href="#道具" class="headerlink" title="道具"></a>道具</h3><p>道具的目的就是改变游戏的节奏，让玩家体验到更爽快的消除。在游戏中有两个实体分别是飞机和病毒。所以道具的设计就围绕着两个实体的属性展开。</p><p>飞机：</p><ul><li>强化射速 </li><li>火力增强</li><li>请求支援<br>三个道具目的就是提高消除的速度，提升玩家的爽快感。</li></ul><p>病毒：</p><ul><li>限制移动</li><li>弱化病毒</li><li>巨化病毒<br>三个道具目的是降低消除的难度，提升玩家的爽快感。</li></ul><h3 id="武器"><a href="#武器" class="headerlink" title="武器"></a>武器</h3><p>武器系统由主副武器两部分组成。主武器负责射击，副武器负责范围攻击。<br>这里主副武器的升级的主要目的是延长游戏的生命周期，给玩家提供持续的目标感。</p><h3 id="操作感"><a href="#操作感" class="headerlink" title="操作感"></a>操作感</h3><ul><li>不操作以后，大幅暂停游戏的速度</li><li>在消除一个病毒以后，会通过震动和绚丽的特效给玩家更好的反馈</li><li>打击到病毒以后，降低病毒移动的速度，更容易消除掉病毒,提升打击感</li><li>数值的快速变化让打击感的达到更高的升华</li></ul><h3 id="节奏"><a href="#节奏" class="headerlink" title="节奏"></a>节奏</h3><p>游戏整体的节奏偏快，通过<strong>啪啪啪啪</strong>的高速射击带来爽快感和打击感。</p><p>从单个关卡设计的角度，游戏的节奏分为两部分：前期和后期。<br>后期通过引入一大波大体积的病毒加快了消除的节奏，和前面稍显缓慢的节奏形成了鲜明的对比。让玩家不会觉得无聊。同时通过道具的引入让前期的节奏也可以产生变化。</p><p>同时在大的病毒分裂成小病毒的时候会加快移动速度，让节奏产生明显的变化。</p><h2 id="用户体验"><a href="#用户体验" class="headerlink" title="用户体验"></a>用户体验</h2><p>过了一遍taptap上面的评论再结合自己的游戏体验谈一下优点和缺点。</p><h3 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h3><ol><li>爽快的打击感，尤其是病毒被爆掉的时候配合着震动，特效，以及快速减少的数值让消除的体验很舒服。</li><li>不同的病毒行为设计，包括追踪，分裂，回血，反弹给玩家提供新鲜感。</li><li>通过引入道具和boss让游戏的节奏产生变化</li><li>在细节的部分做了打磨包括玩家离开以后游戏速度大幅减缓以及一些和题材相关的小tips</li><li>最大的减少了玩家进入游戏的成本。包括功能界面的设计以及点击以后直接进入游戏的流程。</li><li>游戏中的钻石只能通过分享给好友来获得，最大的提升了钻石的稀缺性，同时也能更好的为病毒营销做服务</li></ol><h3 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h3><ol><li>手感上本机的移动有卡顿，在操作上会显得不跟手</li><li>有些副武器的设计没有紧紧围绕<strong>消除</strong>的爽快感深挖，同时副武器的解锁进程太长</li><li>病毒和本机的美术设计单调，没有辨识度。</li><li>道具移动缓慢，消失时间过短，同时一些道具的移动轨迹在屏幕上方，玩家不容易吃到</li><li>玩法简单也就意味着玩了几关以后会很快产生疲劳感，同时系统的设计上又没有给玩家提供足够强大的驱动力让他们一直玩下去，所以生命周期偏短。当然这也是这类小游戏的特征</li></ol><h2 id="数值还原"><a href="#数值还原" class="headerlink" title="数值还原"></a>数值还原</h2><h3 id="经济系统"><a href="#经济系统" class="headerlink" title="经济系统"></a>经济系统</h3><p>三种货币：</p><ul><li><p>钻石<br>产出：好友接受邀请<br>消耗：购买体力和金币</p></li><li><p>金币<br>产出：消灭病毒，每日领取奖励<br>消耗：升级主武器的射速和攻击力；升级副武器的攻击力和属性；升级金币价值和日常收益</p></li><li><p>体力<br>产出：每隔五分钟产出1个体力；清除所有病毒回复5个体力<br>消耗：每玩一局消耗5个</p></li></ul><p>转换关系：<br>1钻石=5体力=18K金币</p><h3 id="成长系统"><a href="#成长系统" class="headerlink" title="成长系统"></a>成长系统</h3><h4 id="主武器"><a href="#主武器" class="headerlink" title="主武器"></a>主武器</h4><p>有两个属性射速和火力。</p><p>射速：</p><ol><li>依据等级线性增长 公式：$$射速=等级+9$$</li><li>消耗金币线性增长 每增加一点的射速，需要多消耗300的金币</li></ol><p>火力：</p><ol><li>依据等级线性增长  每增加1级，火力的数值增加2或者1</li><li>消耗的金币线性增长 每15级为一个区间 倍数在2倍左右</li></ol><h4 id="副武器"><a href="#副武器" class="headerlink" title="副武器"></a>副武器</h4><p>不同的武器有不同的属性，我就以第一个副武器的火力来进行分析。</p><p>火力：</p><ol><li>依据等级线性增长  数值为等级的幂次加上一个增量值 增量值随着等级的增长而增长</li><li>消耗的金币线性增长 每15级为一个区间  倍数在2倍左右</li></ol><h2 id="优化方案"><a href="#优化方案" class="headerlink" title="优化方案"></a>优化方案</h2><p>我的优化思路还是会围绕核心创意<strong>消除</strong>上进行挖掘，同时设计的方案又不能违背游戏快速，爽快的节奏。</p><h3 id="武器-1"><a href="#武器-1" class="headerlink" title="武器"></a>武器</h3><ol><li>去掉对消除没有太大助益的武器，把重点放在<strong>消除</strong>上。比如连锁爆炸，清屏，引入免疫细胞等。</li><li>让玩家提前享受到副武器的乐趣，让玩家能尽早的获得对副武器的直观感受和追求的欲望。</li><li>主武器的部分有些单薄，除了数值的提升以外攻击方式上可以引入一些变化</li><li>引入转化武器，把被攻击的病毒变成免疫细胞，攻击其他的病毒</li></ol><h3 id="道具-1"><a href="#道具-1" class="headerlink" title="道具"></a>道具</h3><ol><li>修改道具的消失时间和运行轨迹让玩家更容易吃到</li><li>通过记录玩家在游戏中的死亡状态，动态的调整产生道具的方式，让难度曲线变得平缓一些</li></ol><h3 id="病毒-1"><a href="#病毒-1" class="headerlink" title="病毒"></a>病毒</h3><ol><li>病毒的美术设计更加有标识符，目前最大的问题是病毒的外形和他的行为模式没有联系</li><li>关卡设计上，病毒的应该按照一定的节奏引入，让玩家建立对病毒行为方式的认知。比如按照：分裂，黏连，跟踪，反弹这样的顺序。</li><li>在一定时间内如果消除的病毒达到一定数量进入充能状态，立刻激发超级攻击，让玩家更爽快的进行打击和消除。</li></ol><h3 id="节奏变化"><a href="#节奏变化" class="headerlink" title="节奏变化"></a>节奏变化</h3><ol><li>引入新的模式：计时模式，无尽模式，合作模式</li><li>添加多目标的成就系统：1分钟内过关获得更多的奖励；消灭了不同类型病毒的数量；不吃道具的情况下通关；不让病毒从屏幕下方掉落</li></ol><h3 id="系统-1"><a href="#系统-1" class="headerlink" title="系统"></a>系统</h3><ol><li>病毒图鉴：除了让玩家刷刷刷以外还能把收集的玩法加入，延长游戏的生命周期</li><li>目前的成长线太过单一只有主副武器，还可以考虑引入免疫类的护盾，提高玩家对某类病毒的抵抗力</li></ol><h3 id="关系链"><a href="#关系链" class="headerlink" title="关系链"></a>关系链</h3><ol><li>排行榜的功能存在感不强，加入到游戏和结算的界面中</li><li>目前没有看到合作模式，不管是通过离线还是在线的合作都可以一定程度上提升游戏的黏性</li></ol><h2 id="运营方案"><a href="#运营方案" class="headerlink" title="运营方案"></a>运营方案</h2><img src="/uncategorized/destroyvirus/virusdata.png"><p>通过分析七麦和阿拉丁上的数据目前《消灭病毒》在总榜的第40名以及免费游戏的第3名，对于一款2月初上线的游戏来说是很不错的成绩。</p><p>在抖音和头条上买量占到了流量的绝大部分，从微信上自然的搜索的流量只有5%左右。同时从数据上看到目前为止新增用户也保持在了一个很好的水准，说明买量的转化率不错，应该继续投入在当前的渠道上。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/destroyvirus/virus.jpg&quot;&gt;
+
+&lt;p&gt;3.26日下午玩了一会儿，目前的进度是解锁了第二个副武器，打到了21关。&lt;/p&gt;
+&lt;h2 id=&quot;核心创意&quot;&gt;&lt;a href=&quot;#核心创意&quot; class=&quot;headerli
+      
+    
+    </summary>
+    
+    
+    
+      <category term="游戏, 消灭病毒, 微信小游戏" scheme="http://linguanghai.com/tags/%E6%B8%B8%E6%88%8F-%E6%B6%88%E7%81%AD%E7%97%85%E6%AF%92-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>gpupipeline</title>
+    <link href="http://linguanghai.com/uncategorized/gpupipeline/"/>
+    <id>http://linguanghai.com/uncategorized/gpupipeline/</id>
+    <published>2019-03-16T14:37:21.000Z</published>
+    <updated>2019-06-17T17:02:48.317Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>时空尺度与自我变革</title>
+    <link href="http://linguanghai.com/uncategorized/cogsize/"/>
+    <id>http://linguanghai.com/uncategorized/cogsize/</id>
+    <published>2019-03-16T14:15:28.000Z</published>
+    <updated>2019-06-17T17:02:48.291Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近读完了一本好书《认知尺度》，分别从时空、思维和人生三个角度讨论了认知的尺度。我比较感兴趣的是时空与自我变革。</p><h2 id="时空"><a href="#时空" class="headerlink" title="时空"></a>时空</h2><blockquote><p>未来已来，只是分布不均</p></blockquote><p>谁都不能预测未来，但是我们可以去靠近接近未来的地方，提前进行套利。<br>接近未来的地方是哪里？肯定是科技高速发展，消费提前升级，人才聚集的地方，在中国就是一二线城市。这些地方就是未来的源头。如果想要获得发展就一定要去这些地方、行业、公司、社群当中去。</p><p>有的时候思考问题的时候把问题放在时空尺度下面很多问题都会有创造性的解法。你可以把时空做转换，也可以无限的放大或者缩小其中一个变量。</p><h3 id="时空转换"><a href="#时空转换" class="headerlink" title="时空转换"></a>时空转换</h3><p>空间上：</p><ul><li>我想获得写一篇十万加的文章</li><li>我想获得更大的市场占有率</li><li>我想获得更多的流量<br>转换到时间上：</li><li>我想让我写的文章10年以后也有读的价值</li><li>我想让我的市场占有率能后续的10年都能保持住</li><li>我想让我们的用户能在以后10年中都和我们在一起</li></ul><p>很多时候把时空进行转换会发现更多的价值。</p><h3 id="时空变形"><a href="#时空变形" class="headerlink" title="时空变形"></a>时空变形</h3><p>这个思考框架就是固定时间或者空间的变量，然后无限放大或者缩小另一个变量。</p><ul><li>空间不变，时间无限放大或者缩小会如何？</li><li>时间不变，空间无限大或者缩小会如何？</li></ul><h2 id="自我变革与知行合一"><a href="#自我变革与知行合一" class="headerlink" title="自我变革与知行合一"></a>自我变革与知行合一</h2><p>杰出的创造者都是不满足于当前的成绩的，要不断的跳出舒适区去挑战自己。就好像液体的流动，如果变成一潭死水那么就不会孕育出任何新的生命了。结合时空的尺度这个阶段如果单单只是提升认知还是不够的，必须具有具象的认知，也就是说要去实践。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;最近读完了一本好书《认知尺度》，分别从时空、思维和人生三个角度讨论了认知的尺度。我比较感兴趣的是时空与自我变革。&lt;/p&gt;
+&lt;h2 id=&quot;时空&quot;&gt;&lt;a href=&quot;#时空&quot; class=&quot;headerlink&quot; title=&quot;时空&quot;&gt;&lt;/a&gt;时空&lt;/h2&gt;&lt;blockquo
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>抢占心智资源</title>
+    <link href="http://linguanghai.com/uncategorized/twohourbrand/"/>
+    <id>http://linguanghai.com/uncategorized/twohourbrand/</id>
+    <published>2019-03-11T03:25:17.000Z</published>
+    <updated>2019-06-17T17:02:48.330Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/twohourbrand/brand.jpg"><p>最近在阅读《2小时品牌素养》，内容深刻而且具有操作性。不管你是做一家公司还是开一家网店，这本书对于你都有锚点的作用，不会让你迷失在营销工具的海洋中。</p><h2 id="主旨"><a href="#主旨" class="headerlink" title="主旨"></a>主旨</h2><ul><li>任何一个成功的品牌都必须有一个定位，即占有一个心智资源</li><li>任何一项经营活动都是为了协助品牌去建立、加强或巩固这个定位，以此影响顾客的购买决定</li></ul><p>全书的主旨就是上面两句话。你可以发现那些优秀的企业的所有的经营活动包括企业文化都是围绕着自己的定位展开的。</p><ul><li>沃尔沃汽车强调安全</li><li>奔驰强调豪华</li><li>宝马强调驾驶</li><li>海飞丝强调去屑</li><li>高露洁强调防蛀</li></ul><p>而那些失败的案例正好相反，这些企业总是想要通过原本强势的品牌进入到另一个市场，这样反倒侵蚀了心智资源，削弱了自己的定位，给了竞争对手可趁之机。</p><ul><li>TCL做电脑</li><li>联想做手机</li><li>红塔山做地板</li><li>茅台做啤酒</li></ul><h2 id="实践"><a href="#实践" class="headerlink" title="实践"></a>实践</h2><blockquote><p>建立品牌就是集中企业所有的力量去抢占心智资源。只有为品牌确立了定位，你才会有一致性的营销推广方向，才能评估出最佳的推广策略，才知道何种推广方式最适合自己。也只有这样，你才算是走对了方向，沿着一条可积累的道路快速高效地建立品牌，而不是陷入漫无方向的广告，使品牌不知所终。</p></blockquote><p>不管你是做一家企业还是开一家网店，一定要想清楚自己的定位。我的品牌需要抢占哪一个心智资源。想清楚了以后，一切的经营活动都要围绕着这个定位来进行。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/twohourbrand/brand.jpg&quot;&gt;
+
+&lt;p&gt;最近在阅读《2小时品牌素养》，内容深刻而且具有操作性。不管你是做一家公司还是开一家网店，这本书对于你都有锚点的作用，不会让你迷失在营销工具的海洋中。&lt;/p&gt;
+&lt;h2 id=
+      
+    
+    </summary>
+    
+    
+    
+      <category term="营销, 品牌" scheme="http://linguanghai.com/tags/%E8%90%A5%E9%94%80-%E5%93%81%E7%89%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>先做再想</title>
+    <link href="http://linguanghai.com/uncategorized/workbeforepassion/"/>
+    <id>http://linguanghai.com/uncategorized/workbeforepassion/</id>
+    <published>2019-02-23T07:39:30.000Z</published>
+    <updated>2019-06-17T17:02:48.331Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/workbeforepassion/view.jpeg"><blockquote><p>不论你做什么，或是在梦想什么，着手去做就是了。勇敢中包含了天赋、能量和魔力。—— 歌德</p></blockquote><p>下周开始要跑公司注册的事情。以前最讨厌的就是这些要和官方机构打交道的工作，但是很多时候这些事情你没办法避开，我选择了自己去跑，当然时间成本上要比找代理公司麻烦，但是我还是想自己走一遍这个流程。</p><p>今天要聊的话题也算是我多年以来的一个迷思。很多人包括我在内一直都在问自己：我的calling是什么？ 我从毕业以后一直以来都从事的是游戏行业，主要是做游戏的研发同时带游戏的开发团队。这些年在经过了多款商业游戏的洗礼，我开始越来越明确，每天坐在办公室写代码，开会，做设计已经不能给我带来足够的满足感和愉悦感了。的确，我要承认，做游戏研发是我目前为止最大的兴趣。但是相比较于国内这样的研发方式和商业模式，我更倾向于自己独立出来做游戏和产品。</p><p>为了找到接下来我想要从事的事业，我需要重新启程。</p><h2 id="真实的自我-vs-可能的自我"><a href="#真实的自我-vs-可能的自我" class="headerlink" title="真实的自我 vs 可能的自我"></a>真实的自我 vs 可能的自我</h2><p>过去我的思维方式很多时候是线性的：先计划，后实施；先想明白；再去做。<br>所以这也是为什么我总是浪费很多时间在寻找真实的自我，这样我想明白了以后，再去做就会事半功倍。其实这种思维方式是偷懒的，是想要走捷径的。</p><p>很多时候人们是找不到真实的自我的，在不同的时间、空间、环境下面人都是有不同的状态和面貌的。斯坦福大学心理学家黑兹尔·马库斯（Hazel Markus）的研究则提出了一个新概念：“可能的自我们”（possible selves)。主要提出了三个观点：</p><ol><li>人并不能通过在头脑中反省找到可能的自我，只有通过实践才能逐渐的了解可能的自我</li><li>过多的反省会导致行为瘫痪，需要一些反馈和心流</li><li>对真实的自我的执着会导致丧失多样性</li></ol><p>这个观念和软件开发不谋而合。先一小步一小步的进行迭代，然后再去根据当时的环境来计划接下来的行动。这个过程是需要时间的，急不来。</p><h2 id="Work-before-passion"><a href="#Work-before-passion" class="headerlink" title="Work before passion"></a>Work before passion</h2><p>所以相比较于去不断的拷问和反省自己到底什么是自己想要的，还不如先在当前手头的资源、能力、兴趣出发，先进入这个行业，从学徒做起，然后在不断的产生心流的过程中进入核心。再之后你自然会得到自己的答案，但是一定记住这个过程不是一蹴而就的，欲速则不达。希望每个人包括我自己都能不断的去了解和实践那些可能的自我，都有一个精彩的人生。</p><h2 id="特别感谢"><a href="#特别感谢" class="headerlink" title="特别感谢"></a>特别感谢</h2><p>在此特别感性阳志平老师（<a href="https://www.yangzhiping.com" target="_blank" rel="noopener">Home - 阳志平的网志</a>）在书和博客中分享的知识。很多年以前在一次创客的聚会上相识，后来也受邀参加了他举办的ruby讲座。回过头来看这么多年下来再读他的文章，时有醍醐灌顶之感。在此推荐给那些有缘的朋友。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/workbeforepassion/view.jpeg&quot;&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;不论你做什么，或是在梦想什么，着手去做就是了。勇敢中包含了天赋、能量和魔力。—— 歌德&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;下周开
+      
+    
+    </summary>
+    
+    
+    
+      <category term="阳志平, 真实的自我, 行动" scheme="http://linguanghai.com/tags/%E9%98%B3%E5%BF%97%E5%B9%B3-%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E6%88%91-%E8%A1%8C%E5%8A%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>将心注入</title>
+    <link href="http://linguanghai.com/uncategorized/pour/"/>
+    <id>http://linguanghai.com/uncategorized/pour/</id>
+    <published>2019-02-20T07:12:26.000Z</published>
+    <updated>2019-06-17T17:02:48.323Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/pour/pour.jpg"><p>喝咖啡已经又一段年头了，从最开始的速溶咖啡到星巴克的美式和拿铁，包括前些年买的胶囊咖啡机。虽然谈不上重度的咖啡爱好者，但是每天喝一两杯是绝对需要的，不但会给我带来一整天的能量，还能让我集中精力和思路。</p><p>星巴克虽然被不少人诟病咖啡的味道，但是不得不承认对于过去一直喝速溶的人来说，第一口拿铁的味道我到现在还能记住，店铺的设计以及香气四溢的咖啡豆都让我得到了很好的体验。只不过是这些年变得越来越挑剔。</p><p>《将心注入》这本书是霍华德舒尔茨写的类似自传的书籍，书中介绍了他和星巴克结缘到最后带领星巴克做成世界最大咖啡零售商的故事。虽然还没有读完，但是通过作者的口述了解到虽然处在不同的行业，但是要做成一个有价值的品牌和公司，很多事情是相通的。</p><h2 id="一小批咖啡爱好者：为核心用户提供更好的体验"><a href="#一小批咖啡爱好者：为核心用户提供更好的体验" class="headerlink" title="一小批咖啡爱好者：为核心用户提供更好的体验"></a>一小批咖啡爱好者：为核心用户提供更好的体验</h2><p>星巴克刚开始是在西雅图当地的一家专门烘培和出售阿拉比卡咖啡豆的零售商。虽然很小众，但是专注了核心用户的痛点。当是的美国是廉价的速溶咖啡的天下，虽然精心烘培的阿拉比卡咖啡豆子品质更好，但是了解的人不多。这就为星巴克创造了机会。因为人们的口味一定会提高。所以他们就为当时懂得咖啡、想要了解咖啡到的人提供上好的豆子，让他们在家里制作浓香四溢的咖啡。</p><h2 id="商业哲学"><a href="#商业哲学" class="headerlink" title="商业哲学"></a>商业哲学</h2><p>这一部分就是舒尔茨自己总结的星巴克的商业哲学：</p><ol><li>必须代表某样东西：优质咖啡和陶醉其中的烘培深度加工法</li><li>超越顾客的期待 ，提供超凡的体验：引起兴奋感，维系忠诚度</li><li>要是顾客对某样东西感兴趣，赋予产品知识和文化内涵</li></ol><p>一杯咖啡除了味道还有围绕着这个味道打造的文化和服务。</p><h2 id="进化：意大利的咖啡文化"><a href="#进化：意大利的咖啡文化" class="headerlink" title="进化：意大利的咖啡文化"></a>进化：意大利的咖啡文化</h2><p>刚开始星巴克是主要是售卖烘培好的咖啡豆子，后来舒尔茨去意大利出差的时候，了解到了当地的咖啡文化，主要是三点：</p><ol><li>咖啡馆已经成为了生活的延伸，除了家和办公室，最重要的就是咖啡馆了，人们在这里休憩，闲聊，品尝咖啡</li><li>咖啡师对于制作咖啡有着艺术家般的执念，从烘培豆子、控制水温、时间等等，这些点滴组成了一杯完美的咖啡</li><li>喝到了拿铁咖啡，蒸制的牛奶泡配上上好的咖啡，让咖啡的味道更加可口</li></ol><h2 id="联想"><a href="#联想" class="headerlink" title="联想"></a>联想</h2><p>每次提高咖啡就能想起茶，包括之前自己专门写了一篇文章。看了这本书除了体会到舒尔茨在商业方面的运筹帷幄，更重要的就是这本书的名字：将心注入。他说每次自己在变得迷失方向的时候，都会亲自到店里，手上抓一把咖啡豆子闻一下豆子散发的浓郁香味，告诉自己为什么出发。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/pour/pour.jpg&quot;&gt;
+
+&lt;p&gt;喝咖啡已经又一段年头了，从最开始的速溶咖啡到星巴克的美式和拿铁，包括前些年买的胶囊咖啡机。虽然谈不上重度的咖啡爱好者，但是每天喝一两杯是绝对需要的，不但会给我带来一整天的能量，还能让我集中精
+      
+    
+    </summary>
+    
+    
+    
+      <category term="星巴克, 咖啡， 经营" scheme="http://linguanghai.com/tags/%E6%98%9F%E5%B7%B4%E5%85%8B-%E5%92%96%E5%95%A1%EF%BC%8C-%E7%BB%8F%E8%90%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>聊一聊行动瘫痪</title>
+    <link href="http://linguanghai.com/uncategorized/paralysis/"/>
+    <id>http://linguanghai.com/uncategorized/paralysis/</id>
+    <published>2019-02-18T03:32:44.000Z</published>
+    <updated>2019-06-17T17:02:48.323Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/paralysis/paralysis.jpeg"><p>过完年回来又要开始一年的工作，趁着这个机会聊聊行动瘫痪。行动瘫痪会导致拖延，不自律等一系列的问题。</p><h2 id="实例"><a href="#实例" class="headerlink" title="实例"></a>实例</h2><p>不知道你们在做软件开发的时候会不会有这个问题。尤其是涉及到架构设计的时候，为了底层的健壮性和优雅，我会花很多的时间去思考和设计。当然一定的设计是绝对有必要的，但是当想要把所有东西都设计好再去做是不现实也是低效率的。过多的设计反倒让你无法下手。</p><p>除了软件开发以外，还有其他的领域同样适用：</p><ol><li>写一篇文章，绞尽脑汁思考文章的脉络和结构，导致迟迟无法下笔。</li><li>做一款产品的设计，思考大量关联的事情包括心理学、交互、商业模式、技术等，最后连个原型都没有做出来。</li><li>要推进一项生意，权衡大量的关联因素，瞻前顾后，导致错过最佳的时机。</li></ol><h2 id="为什么会这样"><a href="#为什么会这样" class="headerlink" title="为什么会这样"></a>为什么会这样</h2><p>结合自己的经历和实践，我觉得原因有两点：</p><ol><li>目标太高几乎遥不可及，没有办法感受到过程中的成长和喜悦，让自己体会不到心流，导致最终放弃和失败。</li><li>人的认知负荷是有限的，当你同时存储和处理大量的信息，效率自然会降低。（阅读源代码的时候，调用函数的次数超过4次就很难记住了。）</li></ol><h2 id="如何解决这个问题？"><a href="#如何解决这个问题？" class="headerlink" title="如何解决这个问题？"></a>如何解决这个问题？</h2><p>如何解决这个问题？从一小步开始。不管是做一个软件项目、写一篇文章还是做一款产品从最小的行动开始。</p><ol><li>当设计一款产品的的时候，先从原型开始。</li><li>当设计软件架构的时候，先从写一个函数开始。</li><li>当阅读一份庞大的源代码的时候，先从打一行日志开始。</li><li>当规划健身计划的时候，先立刻站起来，做一组蹲起。</li><li>当写一篇文章的时候，先从标题和第一句话开始。</li></ol><p>从小处做起不但能让你减小心理的包袱、降低认知负荷，同时还能让你快速获得反馈并进行调整，而不是坐在那里一直反省和想象未来的情况。未来是不可预知的，光是计划和思考是没用的，需要以最小的成本快速行动，这样才能产生心流，给自己一些内在的激励，让自己不再是以坚持和毅力来看待要做的事情，而是在过程中就获得了实时的反馈和满足，这样才能最终达到你想去的地方。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/paralysis/paralysis.jpeg&quot;&gt;
+
+&lt;p&gt;过完年回来又要开始一年的工作，趁着这个机会聊聊行动瘫痪。行动瘫痪会导致拖延，不自律等一系列的问题。&lt;/p&gt;
+&lt;h2 id=&quot;实例&quot;&gt;&lt;a href=&quot;#实例&quot; clas
+      
+    
+    </summary>
+    
+    
+    
+      <category term="认知" scheme="http://linguanghai.com/tags/%E8%AE%A4%E7%9F%A5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>谈谈茶叶</title>
+    <link href="http://linguanghai.com/uncategorized/teabusiness/"/>
+    <id>http://linguanghai.com/uncategorized/teabusiness/</id>
+    <published>2019-01-31T05:18:17.000Z</published>
+    <updated>2019-06-17T17:02:48.327Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/teabusiness/mingcha.jpeg"><p>这些年爱喝茶，普洱，绿茶，红茶，黄茶都是我喜欢喝的品类。对茶叶的喜爱自然而然会让我思考茶叶这门生意。为什么作为茶叶的发源地，这么多年中国没有沉淀出一个世界级的品牌？</p><p>通过在网上以及和做茶的朋友聊天大概归结为以下几个原因。</p><h2 id="混乱而不透明的市场"><a href="#混乱而不透明的市场" class="headerlink" title="混乱而不透明的市场"></a>混乱而不透明的市场</h2><p>国内走在大街小巷尤其是南方能看到大大小小的茶叶店。每一家店的茶叶的价格存在很大的差异，市场非常不透明，导致消费者不懂如何挑选茶叶。同时顶级茶叶和次品充斥市场，很多茶商以次充好，没有从长线去考虑这门生意。</p><h2 id="品牌和营销"><a href="#品牌和营销" class="headerlink" title="品牌和营销"></a>品牌和营销</h2><img src="/uncategorized/teabusiness/shop.jpeg"><p>国内的茶商不重视品牌的建设，从上游的生产到下游面向消费者的销售。做品牌是需要很长的时间的，短期来看是费力不讨好的。但是就是因为我们没有好的品牌导致中国的茶叶在海外一直都是原料的出口，没有得到头部的利润。同时在中国的茶叶生意大部分都是南方人在做，南方人普遍比较内敛，所以相对于包装和营销，更注重产品。所以在做海外销售的时候很吃亏。</p><h2 id="标准化"><a href="#标准化" class="headerlink" title="标准化"></a>标准化</h2><p>我们的生产方式还是停留在小作坊式的，而不是大规模的标准化生产。导致很多茶商的农药残留标准没有办法达到欧美的标准。这块也很吃亏，但是我相信随着国内做茶的人的知识水平和文化素质的提高，这一块不是不能解决的问题。</p><h2 id="跟不上时代的变化"><a href="#跟不上时代的变化" class="headerlink" title="跟不上时代的变化"></a>跟不上时代的变化</h2><img src="/uncategorized/teabusiness/hecha.jpeg"><p>一直以来中国人喝茶不单是把它当作一项饮品，而是一种修身的方式。追求的是心灵的平静以及与自然的和谐共处。这里面就需要人静下心来，通过形式主义的方式自己去泡茶，品茶。但是在当今如此快节奏的生活方式下面，这是一件很奢侈的事情。所以你在星巴克看到坐下来喝茶的时少数，很多都会把咖啡带走喝，甚至边走边喝。而像立顿那样的茶包可以在国内和海外卖的特别好。有没有既保留中国的茶叶文化又能满足消费者随时随地享受茶叶的产品呢？</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>不管是做下游的饮品店还是做上游的生产和加工，茶叶这门生意都有很多可以挖掘的点。一百年以后茶叶还会存在，一个茶叶品牌是绝对有价值的。我相信随着国人的生活水平的提高，茶叶这门古老的生意一定也能走出自己的模式。对这方面我很乐观，就是需要耐心和恒心。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/teabusiness/mingcha.jpeg&quot;&gt;
+
+&lt;p&gt;这些年爱喝茶，普洱，绿茶，红茶，黄茶都是我喜欢喝的品类。对茶叶的喜爱自然而然会让我思考茶叶这门生意。为什么作为茶叶的发源地，这么多年中国没有沉淀出一个世界级的品牌？&lt;/
+      
+    
+    </summary>
+    
+    
+    
+      <category term="茶叶, 生意" scheme="http://linguanghai.com/tags/%E8%8C%B6%E5%8F%B6-%E7%94%9F%E6%84%8F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基因与互联网</title>
+    <link href="http://linguanghai.com/uncategorized/geneandinternet/"/>
+    <id>http://linguanghai.com/uncategorized/geneandinternet/</id>
+    <published>2019-01-30T03:41:11.000Z</published>
+    <updated>2019-06-17T17:02:48.295Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/geneandinternet/gene.jpg"><p>我们的后代除了了遗传到我们的基因，还有互联网上我们的过去。</p><p>有一天和胖胖讨论起来，如果我们死了，那么我们的后代还可以通过互联网上我们分享的照片，文章，视频来了解到我们的过去。记得小时候翻看爷爷奶奶的黑白照片会去想象他们那个年代人的生活，他们的话语，他们的心情。现在有了互联网，我们的后代不再对着照片去想象，而是真的能够活在过去人的记忆当中。</p><p>甚者这些数据在到了云端以后，永远都不会被消除，被一直保留下来。我们出的洋相，高兴的瞬间，痛苦或者快乐的体验都会用数据的方式一直“遗传”下去。</p><p>一些科幻小说里面人类为了永生会把自己的意识上传到云端，然后随着身体的瓦解，会把意识重新下载到新的宿主上。如果抛开意识，那么其实我们已经“永生”了。你来到这个世界上，虽然走的时候什么都带不走，但是会留下数据。</p><p>那么我们留下的数据对与后来者意味着什么呢？这里面的应用展开想象其实非常多。我能想到的词是“模拟”。通过观察和体悟和你携带相同基因的上一辈的人生经历和喜怒哀乐，可以更好的为你提供决策的依据。而且是以更低成本的方式。当然这些模拟会随着环境和时代的变化产生偏差。</p><p>谈了这么多，不禁思考，我们关注当下和未来，能不能围绕着个人的历史数据做一些有趣的应用呢？</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/geneandinternet/gene.jpg&quot;&gt;
+
+&lt;p&gt;我们的后代除了了遗传到我们的基因，还有互联网上我们的过去。&lt;/p&gt;
+&lt;p&gt;有一天和胖胖讨论起来，如果我们死了，那么我们的后代还可以通过互联网上我们分享的照片，文章，视频
+      
+    
+    </summary>
+    
+    
+    
+      <category term="思考" scheme="http://linguanghai.com/tags/%E6%80%9D%E8%80%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>认识自己的大脑</title>
+    <link href="http://linguanghai.com/uncategorized/brain/"/>
+    <id>http://linguanghai.com/uncategorized/brain/</id>
+    <published>2019-01-24T06:14:20.000Z</published>
+    <updated>2019-06-17T17:02:48.288Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/brain/brain.jpeg"><p>最近在看《程序员的思维修炼》这本书，里面提到LR型大脑。正好和我最近读到的文章契合，这里谈谈自己的看法。</p><p>人类从远古而来，现在已步入信息社会，未来会进入人工智能的社会。但是我们的部分大脑还是停留在远古时代。在我们看见蛇或者遇到野兽的时候，自然而然就会进入防御状态，这是基因的记忆，也是R型大脑在起作用。这部分本能和认知是内隐的，几乎不需要动用L型大脑的逻辑思考。完全就是条件反射的肌肉记忆。包括我们不受控制般的发脾气，抱怨，恐惧等。</p><p>L是线性的，对逻辑和语言非常重要。R型是异步且综合的，负责直觉，问题解决和创造性。作为开发者，我们大部分时间都在使用L型的大脑。用来做逻辑，分析，计算等处理。在分析一段代码或者写一个函数的时候，都是使用这部分来做处理。但是很多时候我们也需要从整体上去看待一个软件，一幢建筑，一幅画作，一个工具。这个时候我们就会调动自己的R型的大脑。R型大脑负责整体，负责模式匹配，负责处理神经信号，当你洗澡，散步，运动的时候，把信息交给你。</p><p>只有两部分和谐高效的协作才能创造出伟大的作品。</p><p>但是培育R型大脑需要的是和周边的世界产生互动，这也是为什么把自己紧闭在斗室当中对工作效率毫无帮助。这也是为什么美学如此重要。因为这个时候你在调动自己的R型大脑，让它在放松的环境下得到充分的休息和运用。</p><p>专家的直觉就是把L型负责的分析，逻辑，计算等工作内化为R型的内隐知识。随时能够调取出来解决问题。</p><p>更好的认知自己的大脑能够想办法规避进化的漏洞，更好的掌控自己的人生。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/brain/brain.jpeg&quot;&gt;
+
+&lt;p&gt;最近在看《程序员的思维修炼》这本书，里面提到LR型大脑。正好和我最近读到的文章契合，这里谈谈自己的看法。&lt;/p&gt;
+&lt;p&gt;人类从远古而来，现在已步入信息社会，未来会进入人工智能的社会。但
+      
+    
+    </summary>
+    
+    
+    
+      <category term="认知, 内隐" scheme="http://linguanghai.com/tags/%E8%AE%A4%E7%9F%A5-%E5%86%85%E9%9A%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一杯咖啡吸收宇宙能量</title>
+    <link href="http://linguanghai.com/uncategorized/coffeandhuawei/"/>
+    <id>http://linguanghai.com/uncategorized/coffeandhuawei/</id>
+    <published>2019-01-22T10:29:42.000Z</published>
+    <updated>2019-06-17T17:02:48.290Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/coffeandhuawei/huawei.jpg"><p>看了任正非最近接受采访的访谈稿。1万多字，读起来一点也累。说话直指问题核心，受益匪浅。</p><p>最让我有感触的是两点：</p><ol><li>深刻的危机意识</li><li>对于“自主创新”的看法</li></ol><h2 id="危机意识"><a href="#危机意识" class="headerlink" title="危机意识"></a>危机意识</h2><p>之前就看过任正非给内部写的信。最大的感触就是他对当前的华为不满意。在所有人都看衰你的时候不是最危险的，最危险的时候是所有人都看好你的时候。没办法这个就是人类进化的漏洞。在取得成绩的时候大脑自动会分泌让人愉悦的化学物质，会产生对当前环境的误判。会莫名其妙得把当前的成功归功于自己的能力，而不是环境使然。这种认知失调不但会影响你的判断和决策能力，同时也会让你产生骄傲的情绪。革别人的命容易，革自己的命难得太多太多。</p><p>当生活安逸舒适，产生倦怠感是不可避免的。只有你有一个更高的目标和使命的时候，你才会正确客观的分析现在的状况。我认为就是因为当前的成绩和自己的目标相比微不足道，人们才会收起骄傲自满，收拾好行囊开始下一段旅程。</p><h2 id="自主创新"><a href="#自主创新" class="headerlink" title="自主创新"></a>自主创新</h2><p>不要闭门造车。在尖端科技领域没办法购买，当然要靠自主创新。但是在工程领域，产品领域的创新，要用开放的心态去接纳别人的劳动成果。当然是在尊重原创的基础上，而不是山寨和盗版。</p><p>当前做的产品要站在客户的角度，而不是国家之间的政治形态。一切以客户为出发点。意识形态的对立和外交的起伏不应该与产品研发形成相关性。</p><p>回顾自己做产品的过程，刚开始总是想要从基础框架级别就用自己的代码。现在想来很浪费时间。最终目的是做产品。产品是一切的归根和内因。</p><h2 id="最后谈一下教育"><a href="#最后谈一下教育" class="headerlink" title="最后谈一下教育"></a>最后谈一下教育</h2><p>作为一个从小就不爱“学习”，不爱考试的人，真的要感谢互联网的高速发展，以及大量的免费和收费的教育资源，让我可以足不出户在家里学习感兴趣的东西同时认识很多志同道合的朋友。现在回过头来想，虽然生在一个小县城，信息闭塞，但是幸亏很早就接触了电脑，让我打开了眼界。读了很多有意思的书。这样才避免了做井底之蛙。回头想想，自己是幸运的。</p><p>但是通过网络也看到很多的农村孩子没有很好的教育资源。不单是基础教育，包括绘画，音乐等人文学科也很匮乏。希望自己将来做的产品能够在这方面贡献一份绵薄的力量。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/coffeandhuawei/huawei.jpg&quot;&gt;
+
+&lt;p&gt;看了任正非最近接受采访的访谈稿。1万多字，读起来一点也累。说话直指问题核心，受益匪浅。&lt;/p&gt;
+&lt;p&gt;最让我有感触的是两点：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;深刻的危机意识
+      
+    
+    </summary>
+    
+    
+    
+      <category term="华为, 危机意识，自主创新，教育" scheme="http://linguanghai.com/tags/%E5%8D%8E%E4%B8%BA-%E5%8D%B1%E6%9C%BA%E6%84%8F%E8%AF%86%EF%BC%8C%E8%87%AA%E4%B8%BB%E5%88%9B%E6%96%B0%EF%BC%8C%E6%95%99%E8%82%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用python学习数学</title>
+    <link href="http://linguanghai.com/uncategorized/calculusintro/"/>
+    <id>http://linguanghai.com/uncategorized/calculusintro/</id>
+    <published>2019-01-22T07:58:54.000Z</published>
+    <updated>2019-06-17T17:02:48.289Z</updated>
+    
+    <content type="html"><![CDATA[<p>数学是我最喜爱的学科。和写程序并列。<br>这些年基本都在做游戏的开发，使用到了大量的数学和物理方面的知识。我基本上就是有什么需要了就现查资料。尤其是看3d引擎的时候，很多线性代数的知识都是通过一本一些电子书和网站上的教程获得。总的来说不系统，也不完整。毕竟商业游戏的开发主要是和接口打交道。但是如果想深入下去没有扎实的数学基础是不行的。</p><p>这段时间除了开发游戏，还用业余时间学习python.之前的工作中当然用过。但是也基本上处在解决问题遇到坎了，现学现卖的阶段。根据德雷福斯模型，我现在还处于胜任和高级新手之间。这段时间想要把python的知识树重新梳理一遍。</p><p>Python的好处在我眼里不只是语法的优美和稳定，更多是它完善的生态链。机器学习，数据分析，科学计算，web, 游戏等等，几乎每一个应用领域都能看见它的身影。</p><p>于是我就想能不能用python作为工具辅助我学习数学？搜索了一下果然有。通过下载anaconda的全家桶，里面的spyder ide已经集成了我需要的工具。使用sympy模块，不管是微积分还是线性代数都可以开始搞起来了。照着教程过了一遍。的确方便了很多啊。</p><p>不管是求导、积分、绘制多项式的抛物线以及求解都给我带来了很大效率上的提升。</p><p>本身喜欢python这门语言，同时又喜欢数学，把这两者结合起来，批量的学习和解决问题，岂不快哉。</p><p>除了学习和笔记，输出同样重要。使用flask把掌握的内容用应用或者工具的形式展现出来应该会很有趣。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;数学是我最喜爱的学科。和写程序并列。&lt;br&gt;这些年基本都在做游戏的开发，使用到了大量的数学和物理方面的知识。我基本上就是有什么需要了就现查资料。尤其是看3d引擎的时候，很多线性代数的知识都是通过一本一些电子书和网站上的教程获得。总的来说不系统，也不完整。毕竟商业游戏的开发主
+      
+    
+    </summary>
+    
+    
+    
+      <category term="math" scheme="http://linguanghai.com/tags/math/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>品一杯好茶，睡一个好觉</title>
+    <link href="http://linguanghai.com/uncategorized/teaandsleep/"/>
+    <id>http://linguanghai.com/uncategorized/teaandsleep/</id>
+    <published>2019-01-18T08:11:00.000Z</published>
+    <updated>2019-06-17T17:02:48.326Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/teaandsleep/jobs.jpeg"><p>随着年龄的增长，越来越喜欢简单的生活。<br>更早些时候流连于夜店酒吧，和朋友胡吃海喝。透支自己的身体和时间，让情绪和健康一直处于不稳定的状态。繁重的工作成为发泄的理由，对大脑和心智都是一种深层次的伤害。</p><p>过去有看到乔布斯家里面一张照片，当是深有感触。诺达的一个房间只有一张床垫，一把台灯，一台电脑。智者通过化繁就简来触达生命的真谛。</p><p>当规律的工作，生活，休息成为了内化的行为模式，好的灵感自然会产生。</p><p>这个时候如果手边有一杯好茶，精神上也得到了升华。</p><h2 id="茶"><a href="#茶" class="headerlink" title="茶"></a>茶</h2><p>第一次正经的喝茶是在去丽江玩的时候，在旅店的大堂，和老板喝着普洱，聊着他从福建来到云南创业的故事。顺便去了他投资的茶庄，买了盘好茶。做生意的最高境界，和自己的客户当朋友。后来来到广州，这边的茶点文化深深的影响了我的饮食习惯。一天下来不喝茶，就仿佛没有了主心骨，生活工作都不顺遂。</p><img src="/uncategorized/teaandsleep/tea.jpeg"><p>喝茶更符合中国人的待人接物之道。当茶在口腔和鼻腔间产生共鸣，心里面自然而然就静下来了。这种形式主义是好的形式主义。中国的文人自古以来就推崇这样的生活方式。很多时候当你品一杯好茶的时候，头脑中不只是分泌多巴胺，更多时候你仿佛感受到孕育茶叶的土壤，雨水，养分，山间的湿气。</p><h2 id="为了自己，好好睡一觉"><a href="#为了自己，好好睡一觉" class="headerlink" title="为了自己，好好睡一觉"></a>为了自己，好好睡一觉</h2><p>休息的质量决定了你工作的质量。睡眠的重要性怎么强调都不过分。不幸的是，这么多年我一直以为自己是一个夜猫子，可能是因为之前年轻，荷尔蒙分泌，导致自己没有觉得怎么样。反倒是现在当能睡一个好觉的时候，第二天神清气爽。这种感觉要比从困顿中起床要好得多。</p><p>当然因为自己的不规律，导致睡眠的时间总是被我打乱。好好睡觉吧，这样才不会亏欠自己。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/teaandsleep/jobs.jpeg&quot;&gt;
+&lt;p&gt;随着年龄的增长，越来越喜欢简单的生活。&lt;br&gt;更早些时候流连于夜店酒吧，和朋友胡吃海喝。透支自己的身体和时间，让情绪和健康一直处于不稳定的状态。繁重的工作成为发泄的理由，对大脑
+      
+    
+    </summary>
+    
+    
+    
+      <category term="生活" scheme="http://linguanghai.com/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>创造，不要制造</title>
+    <link href="http://linguanghai.com/uncategorized/createandmake/"/>
+    <id>http://linguanghai.com/uncategorized/createandmake/</id>
+    <published>2019-01-17T12:03:44.000Z</published>
+    <updated>2019-06-17T17:02:48.291Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/uncategorized/createandmake/coffeshop.jpeg"><p>做新游戏的又遇到坑了，核心玩法上还是有问题。<br>在整理书柜的时候翻出了一本过去看过的游戏设计的书。但是里面的内容都忘了。这读了和没读一样啊，罪过。<br>里面关于游戏创意的最能引起我共鸣的是：</p><ol><li>不要从现有游戏出发去想创意，现有的游戏是素材，不是创意的源点</li><li>不要从类型出发</li></ol><p>回顾自己过去做游戏的方法，作为程序更多是站在实现的角度去思考问题。所以在创意上没有进行深入的思考。可能和我一起合作的策划也是吧。<br>做商业产品形成的路径依赖很容易把团队带到坑里面去而不自知。头破血流以后才明白代价有多高昂。</p><p>我们是在创造游戏，而不是制造游戏。要把自己的感官，触觉，嗅觉，逻辑，想象力全部打开，成为全息的相机。要从生活和玩耍中找到游戏的创意，而不是在现有产品上去做微调。</p><p>可能100个想法里面只有一个能够成为最终的游戏。这个过程是必经之路，是痛苦的，焦虑的，当然最后也是快乐的，值得的。</p><p>不管是做游戏还是做工具都要经过这样不断地求索，不能偷懒，不能走捷径。</p><p>心怀用户，创造全新的体验，给用户带来价值。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/uncategorized/createandmake/coffeshop.jpeg&quot;&gt;
+
+&lt;p&gt;做新游戏的又遇到坑了，核心玩法上还是有问题。&lt;br&gt;在整理书柜的时候翻出了一本过去看过的游戏设计的书。但是里面的内容都忘了。这读了和没读一样啊，罪过。&lt;br&gt;里
+      
+    
+    </summary>
+    
+    
+    
+      <category term="游戏设计" scheme="http://linguanghai.com/tags/%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+</feed>

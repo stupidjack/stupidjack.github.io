@@ -1,0 +1,1278 @@
+<!DOCTYPE html>
+
+
+
+  
+
+
+<html class="theme-next gemini use-motion" lang>
+<head><meta name="generator" content="Hexo 3.9.0">
+  <meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="theme-color" content="#222">
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css">
+
+
+
+
+
+
+
+<link href="/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css">
+
+<link href="/css/main.css?v=5.1.4" rel="stylesheet" type="text/css">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png?v=5.1.4">
+
+
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png?v=5.1.4">
+
+
+  <link rel="mask-icon" href="/images/logo.svg?v=5.1.4" color="#222">
+
+
+
+
+
+  <meta name="keywords" content="游戏, 消灭病毒, 微信小游戏,">
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="punkbear's blog" type="application/atom+xml">
+
+
+
+
+
+
+<meta name="description" content="3.26日下午玩了一会儿，目前的进度是解锁了第二个副武器，打到了21关。 核心创意表面上这款游戏是STG但是实际上是一款消除游戏。通过操纵本机发射子弹让病毒分裂或者消除。在去掉了STG中高难度的弹幕闪避以后降低了玩家的操作难度，同时能够体验消除的爽快感。所以核心的体验就要围绕消除展开。 系统病毒 病毒是由简洁的外形和突出的生命值让玩家直观的看到自己消除的进度。 运动速度和体积成反比，相对的体积">
+<meta name="keywords" content="游戏, 消灭病毒, 微信小游戏">
+<meta property="og:type" content="article">
+<meta property="og:title" content="《消灭病毒》游戏分析">
+<meta property="og:url" content="http://linguanghai.com/uncategorized/destroyvirus/index.html">
+<meta property="og:site_name" content="punkbear&#39;s blog">
+<meta property="og:description" content="3.26日下午玩了一会儿，目前的进度是解锁了第二个副武器，打到了21关。 核心创意表面上这款游戏是STG但是实际上是一款消除游戏。通过操纵本机发射子弹让病毒分裂或者消除。在去掉了STG中高难度的弹幕闪避以后降低了玩家的操作难度，同时能够体验消除的爽快感。所以核心的体验就要围绕消除展开。 系统病毒 病毒是由简洁的外形和突出的生命值让玩家直观的看到自己消除的进度。 运动速度和体积成反比，相对的体积">
+<meta property="og:locale" content="default">
+<meta property="og:image" content="http://linguanghai.com/uncategorized/destroyvirus/virus.jpg">
+<meta property="og:image" content="http://linguanghai.com/uncategorized/destroyvirus/virusdata.png">
+<meta property="og:updated_time" content="2019-06-17T17:02:48.292Z">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="《消灭病毒》游戏分析">
+<meta name="twitter:description" content="3.26日下午玩了一会儿，目前的进度是解锁了第二个副武器，打到了21关。 核心创意表面上这款游戏是STG但是实际上是一款消除游戏。通过操纵本机发射子弹让病毒分裂或者消除。在去掉了STG中高难度的弹幕闪避以后降低了玩家的操作难度，同时能够体验消除的爽快感。所以核心的体验就要围绕消除展开。 系统病毒 病毒是由简洁的外形和突出的生命值让玩家直观的看到自己消除的进度。 运动速度和体积成反比，相对的体积">
+<meta name="twitter:image" content="http://linguanghai.com/uncategorized/destroyvirus/virus.jpg">
+
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '/',
+    scheme: 'Gemini',
+    version: '5.1.4',
+    sidebar: {"position":"left","display":"post","offset":12,"b2t":true,"scrollpercent":true,"onmobile":false},
+    fancybox: true,
+    tabs: true,
+    motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
+    duoshuo: {
+      userId: '0',
+      author: 'Author'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://linguanghai.com/uncategorized/destroyvirus/">
+
+
+
+
+
+  <title>《消灭病毒》游戏分析 | punkbear's blog</title>
+  
+
+
+
+
+
+  <script type="text/javascript">
+    var _hmt = _hmt || [];
+    (function() {
+      var hm = document.createElement("script");
+      hm.src = "https://hm.baidu.com/hm.js?394a09ac6521488f2822ecfaa1ae2f52";
+      var s = document.getElementsByTagName("script")[0];
+      s.parentNode.insertBefore(hm, s);
+    })();
+  </script>
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="default">
+
+  
+  
+    
+  
+
+  <div class="container sidebar-position-left page-post-detail">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/" class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">punkbear's blog</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle">make fun stuff</p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br>
+            
+            Home
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-question-circle"></i> <br>
+            
+            About
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-tags">
+          <a href="/tags/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-tags"></i> <br>
+            
+            Tags
+          </a>
+        </li>
+      
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br>
+            
+            Archives
+          </a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br>
+            
+            Search
+          </a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off" placeholder="Searching..." spellcheck="false" type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+
+    </div>
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+  <div id="posts" class="posts-expand">
+    
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://linguanghai.com/uncategorized/destroyvirus/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="punkbear">
+      <meta itemprop="description" content>
+      <meta itemprop="image" content="/images/avatar.jpg">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="punkbear's blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">《消灭病毒》游戏分析</h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2019-03-27T13:27:48+08:00">
+                2019-03-27
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+
+          
+            
+          
+
+          
+          
+
+          
+            <span class="post-meta-divider">|</span>
+            <span class="page-pv"><i class="fa fa-file-o"></i> 阅读次数
+            <span class="busuanzi-value" id="busuanzi_value_page_pv"></span>
+            </span>
+          
+
+          
+            <div class="post-wordcount">
+              
+                
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-file-word-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Words count in article&#58;</span>
+                
+                <span title="Words count in article">
+                  2.2k
+                </span>
+              
+
+              
+                <span class="post-meta-divider">|</span>
+              
+
+              
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-clock-o"></i>
+                </span>
+                
+                  <span class="post-meta-item-text">Reading time &asymp;</span>
+                
+                <span title="Reading time">
+                  7
+                </span>
+              
+            </div>
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        <img src="/uncategorized/destroyvirus/virus.jpg">
+
+<p>3.26日下午玩了一会儿，目前的进度是解锁了第二个副武器，打到了21关。</p>
+<h2 id="核心创意"><a href="#核心创意" class="headerlink" title="核心创意"></a>核心创意</h2><p>表面上这款游戏是STG但是实际上是一款消除游戏。通过操纵本机发射子弹让病毒分裂或者消除。在去掉了STG中高难度的弹幕闪避以后降低了玩家的操作难度，同时能够体验消除的爽快感。所以核心的体验就要围绕<strong>消除</strong>展开。</p>
+<h2 id="系统"><a href="#系统" class="headerlink" title="系统"></a>系统</h2><h3 id="病毒"><a href="#病毒" class="headerlink" title="病毒"></a>病毒</h3><ul>
+<li>病毒是由简洁的外形和突出的生命值让玩家直观的看到自己消除的进度。</li>
+<li>运动速度和体积成反比，相对的体积越大越容易消除。</li>
+<li>病毒的在下方移出以后还会从上方移入，这样降低了玩家的心智负担，只需要关注在上方的病毒</li>
+<li>病毒会产生黏连和加血的行为模式，带来了除了数值，体积，移动速度以外的差异</li>
+</ul>
+<h3 id="道具"><a href="#道具" class="headerlink" title="道具"></a>道具</h3><p>道具的目的就是改变游戏的节奏，让玩家体验到更爽快的消除。在游戏中有两个实体分别是飞机和病毒。所以道具的设计就围绕着两个实体的属性展开。</p>
+<p>飞机：</p>
+<ul>
+<li>强化射速 </li>
+<li>火力增强</li>
+<li>请求支援<br>三个道具目的就是提高消除的速度，提升玩家的爽快感。</li>
+</ul>
+<p>病毒：</p>
+<ul>
+<li>限制移动</li>
+<li>弱化病毒</li>
+<li>巨化病毒<br>三个道具目的是降低消除的难度，提升玩家的爽快感。</li>
+</ul>
+<h3 id="武器"><a href="#武器" class="headerlink" title="武器"></a>武器</h3><p>武器系统由主副武器两部分组成。主武器负责射击，副武器负责范围攻击。<br>这里主副武器的升级的主要目的是延长游戏的生命周期，给玩家提供持续的目标感。</p>
+<h3 id="操作感"><a href="#操作感" class="headerlink" title="操作感"></a>操作感</h3><ul>
+<li>不操作以后，大幅暂停游戏的速度</li>
+<li>在消除一个病毒以后，会通过震动和绚丽的特效给玩家更好的反馈</li>
+<li>打击到病毒以后，降低病毒移动的速度，更容易消除掉病毒,提升打击感</li>
+<li>数值的快速变化让打击感的达到更高的升华</li>
+</ul>
+<h3 id="节奏"><a href="#节奏" class="headerlink" title="节奏"></a>节奏</h3><p>游戏整体的节奏偏快，通过<strong>啪啪啪啪</strong>的高速射击带来爽快感和打击感。</p>
+<p>从单个关卡设计的角度，游戏的节奏分为两部分：前期和后期。<br>后期通过引入一大波大体积的病毒加快了消除的节奏，和前面稍显缓慢的节奏形成了鲜明的对比。让玩家不会觉得无聊。同时通过道具的引入让前期的节奏也可以产生变化。</p>
+<p>同时在大的病毒分裂成小病毒的时候会加快移动速度，让节奏产生明显的变化。</p>
+<h2 id="用户体验"><a href="#用户体验" class="headerlink" title="用户体验"></a>用户体验</h2><p>过了一遍taptap上面的评论再结合自己的游戏体验谈一下优点和缺点。</p>
+<h3 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h3><ol>
+<li>爽快的打击感，尤其是病毒被爆掉的时候配合着震动，特效，以及快速减少的数值让消除的体验很舒服。</li>
+<li>不同的病毒行为设计，包括追踪，分裂，回血，反弹给玩家提供新鲜感。</li>
+<li>通过引入道具和boss让游戏的节奏产生变化</li>
+<li>在细节的部分做了打磨包括玩家离开以后游戏速度大幅减缓以及一些和题材相关的小tips</li>
+<li>最大的减少了玩家进入游戏的成本。包括功能界面的设计以及点击以后直接进入游戏的流程。</li>
+<li>游戏中的钻石只能通过分享给好友来获得，最大的提升了钻石的稀缺性，同时也能更好的为病毒营销做服务</li>
+</ol>
+<h3 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h3><ol>
+<li>手感上本机的移动有卡顿，在操作上会显得不跟手</li>
+<li>有些副武器的设计没有紧紧围绕<strong>消除</strong>的爽快感深挖，同时副武器的解锁进程太长</li>
+<li>病毒和本机的美术设计单调，没有辨识度。</li>
+<li>道具移动缓慢，消失时间过短，同时一些道具的移动轨迹在屏幕上方，玩家不容易吃到</li>
+<li>玩法简单也就意味着玩了几关以后会很快产生疲劳感，同时系统的设计上又没有给玩家提供足够强大的驱动力让他们一直玩下去，所以生命周期偏短。当然这也是这类小游戏的特征</li>
+</ol>
+<h2 id="数值还原"><a href="#数值还原" class="headerlink" title="数值还原"></a>数值还原</h2><h3 id="经济系统"><a href="#经济系统" class="headerlink" title="经济系统"></a>经济系统</h3><p>三种货币：</p>
+<ul>
+<li><p>钻石<br>产出：好友接受邀请<br>消耗：购买体力和金币</p>
+</li>
+<li><p>金币<br>产出：消灭病毒，每日领取奖励<br>消耗：升级主武器的射速和攻击力；升级副武器的攻击力和属性；升级金币价值和日常收益</p>
+</li>
+<li><p>体力<br>产出：每隔五分钟产出1个体力；清除所有病毒回复5个体力<br>消耗：每玩一局消耗5个</p>
+</li>
+</ul>
+<p>转换关系：<br>1钻石=5体力=18K金币</p>
+<h3 id="成长系统"><a href="#成长系统" class="headerlink" title="成长系统"></a>成长系统</h3><h4 id="主武器"><a href="#主武器" class="headerlink" title="主武器"></a>主武器</h4><p>有两个属性射速和火力。</p>
+<p>射速：</p>
+<ol>
+<li>依据等级线性增长 公式：$$射速=等级+9$$</li>
+<li>消耗金币线性增长 每增加一点的射速，需要多消耗300的金币</li>
+</ol>
+<p>火力：</p>
+<ol>
+<li>依据等级线性增长  每增加1级，火力的数值增加2或者1</li>
+<li>消耗的金币线性增长 每15级为一个区间 倍数在2倍左右</li>
+</ol>
+<h4 id="副武器"><a href="#副武器" class="headerlink" title="副武器"></a>副武器</h4><p>不同的武器有不同的属性，我就以第一个副武器的火力来进行分析。</p>
+<p>火力：</p>
+<ol>
+<li>依据等级线性增长  数值为等级的幂次加上一个增量值 增量值随着等级的增长而增长</li>
+<li>消耗的金币线性增长 每15级为一个区间  倍数在2倍左右</li>
+</ol>
+<h2 id="优化方案"><a href="#优化方案" class="headerlink" title="优化方案"></a>优化方案</h2><p>我的优化思路还是会围绕核心创意<strong>消除</strong>上进行挖掘，同时设计的方案又不能违背游戏快速，爽快的节奏。</p>
+<h3 id="武器-1"><a href="#武器-1" class="headerlink" title="武器"></a>武器</h3><ol>
+<li>去掉对消除没有太大助益的武器，把重点放在<strong>消除</strong>上。比如连锁爆炸，清屏，引入免疫细胞等。</li>
+<li>让玩家提前享受到副武器的乐趣，让玩家能尽早的获得对副武器的直观感受和追求的欲望。</li>
+<li>主武器的部分有些单薄，除了数值的提升以外攻击方式上可以引入一些变化</li>
+<li>引入转化武器，把被攻击的病毒变成免疫细胞，攻击其他的病毒</li>
+</ol>
+<h3 id="道具-1"><a href="#道具-1" class="headerlink" title="道具"></a>道具</h3><ol>
+<li>修改道具的消失时间和运行轨迹让玩家更容易吃到</li>
+<li>通过记录玩家在游戏中的死亡状态，动态的调整产生道具的方式，让难度曲线变得平缓一些</li>
+</ol>
+<h3 id="病毒-1"><a href="#病毒-1" class="headerlink" title="病毒"></a>病毒</h3><ol>
+<li>病毒的美术设计更加有标识符，目前最大的问题是病毒的外形和他的行为模式没有联系</li>
+<li>关卡设计上，病毒的应该按照一定的节奏引入，让玩家建立对病毒行为方式的认知。比如按照：分裂，黏连，跟踪，反弹这样的顺序。</li>
+<li>在一定时间内如果消除的病毒达到一定数量进入充能状态，立刻激发超级攻击，让玩家更爽快的进行打击和消除。</li>
+</ol>
+<h3 id="节奏变化"><a href="#节奏变化" class="headerlink" title="节奏变化"></a>节奏变化</h3><ol>
+<li>引入新的模式：计时模式，无尽模式，合作模式</li>
+<li>添加多目标的成就系统：1分钟内过关获得更多的奖励；消灭了不同类型病毒的数量；不吃道具的情况下通关；不让病毒从屏幕下方掉落</li>
+</ol>
+<h3 id="系统-1"><a href="#系统-1" class="headerlink" title="系统"></a>系统</h3><ol>
+<li>病毒图鉴：除了让玩家刷刷刷以外还能把收集的玩法加入，延长游戏的生命周期</li>
+<li>目前的成长线太过单一只有主副武器，还可以考虑引入免疫类的护盾，提高玩家对某类病毒的抵抗力</li>
+</ol>
+<h3 id="关系链"><a href="#关系链" class="headerlink" title="关系链"></a>关系链</h3><ol>
+<li>排行榜的功能存在感不强，加入到游戏和结算的界面中</li>
+<li>目前没有看到合作模式，不管是通过离线还是在线的合作都可以一定程度上提升游戏的黏性</li>
+</ol>
+<h2 id="运营方案"><a href="#运营方案" class="headerlink" title="运营方案"></a>运营方案</h2><img src="/uncategorized/destroyvirus/virusdata.png">
+
+<p>通过分析七麦和阿拉丁上的数据目前《消灭病毒》在总榜的第40名以及免费游戏的第3名，对于一款2月初上线的游戏来说是很不错的成绩。</p>
+<p>在抖音和头条上买量占到了流量的绝大部分，从微信上自然的搜索的流量只有5%左右。同时从数据上看到目前为止新增用户也保持在了一个很好的水准，说明买量的转化率不错，应该继续投入在当前的渠道上。</p>
+
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+
+    <footer class="post-footer">
+      
+        <div class="post-tags">
+          
+            <a href="/tags/游戏-消灭病毒-微信小游戏/" rel="tag"># 游戏, 消灭病毒, 微信小游戏</a>
+          
+        </div>
+      
+
+      
+      
+      
+
+      
+        <div class="post-nav">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/uncategorized/gpupipeline/" rel="next" title="gpupipeline">
+                <i class="fa fa-chevron-left"></i> gpupipeline
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/uncategorized/automata/" rel="prev" title="机器人叛乱,AI,自然界的去中心化">
+                机器人叛乱,AI,自然界的去中心化 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+
+      
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+
+    <div class="post-spread">
+      
+    </div>
+  </div>
+
+
+          </div>
+          
+
+
+          
+
+  
+    <div class="comments" id="comments">
+      <div id="lv-container" data-id="city" data-uid="MTAyMC80MTA4NS8xNzYxMA"></div>
+    </div>
+
+  
+
+
+
+        </div>
+        
+          
+  
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    
+    <div class="sidebar-inner">
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap">
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview-wrap">
+            Overview
+          </li>
+        </ul>
+      
+
+      <section class="site-overview-wrap sidebar-panel">
+        <div class="site-overview">
+          <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+            
+              <img class="site-author-image" itemprop="image" src="/images/avatar.jpg" alt="punkbear">
+            
+              <p class="site-author-name" itemprop="name">punkbear</p>
+              <p class="site-description motion-element" itemprop="description"></p>
+          </div>
+
+          <nav class="site-state motion-element">
+
+            
+              <div class="site-state-item site-state-posts">
+              
+                <a href="/archives/">
+              
+                  <span class="site-state-item-count">34</span>
+                  <span class="site-state-item-name">posts</span>
+                </a>
+              </div>
+            
+
+            
+
+            
+              
+              
+              <div class="site-state-item site-state-tags">
+                <a href="/tags/index.html">
+                  <span class="site-state-item-count">27</span>
+                  <span class="site-state-item-name">tags</span>
+                </a>
+              </div>
+            
+
+          </nav>
+
+          
+            <div class="feed-link motion-element">
+              <a href="/atom.xml" rel="alternate">
+                <i class="fa fa-rss"></i>
+                RSS
+              </a>
+            </div>
+          
+
+          
+            <div class="links-of-author motion-element">
+                
+                  <span class="links-of-author-item">
+                    <a href="https://github.com/punkbearcoding" target="_blank" title="GitHub">
+                      
+                        <i class="fa fa-fw fa-github"></i>GitHub</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="mailto:punkbear@126.com" target="_blank" title="E-Mail">
+                      
+                        <i class="fa fa-fw fa-envelope"></i>E-Mail</a>
+                  </span>
+                
+                  <span class="links-of-author-item">
+                    <a href="https://weibo.com/6248015897/profile?topnav=1&wvr=6" target="_blank" title="Weibo">
+                      
+                        <i class="fa fa-fw fa-weibo"></i>Weibo</a>
+                  </span>
+                
+            </div>
+          
+
+          
+          
+
+          
+          
+
+          
+
+        </div>
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+              
+            
+
+            
+              <div class="post-toc-content"><ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#核心创意"><span class="nav-number">1.</span> <span class="nav-text">核心创意</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#系统"><span class="nav-number">2.</span> <span class="nav-text">系统</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#病毒"><span class="nav-number">2.1.</span> <span class="nav-text">病毒</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#道具"><span class="nav-number">2.2.</span> <span class="nav-text">道具</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#武器"><span class="nav-number">2.3.</span> <span class="nav-text">武器</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#操作感"><span class="nav-number">2.4.</span> <span class="nav-text">操作感</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#节奏"><span class="nav-number">2.5.</span> <span class="nav-text">节奏</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#用户体验"><span class="nav-number">3.</span> <span class="nav-text">用户体验</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#优点"><span class="nav-number">3.1.</span> <span class="nav-text">优点</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#缺点"><span class="nav-number">3.2.</span> <span class="nav-text">缺点</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#数值还原"><span class="nav-number">4.</span> <span class="nav-text">数值还原</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#经济系统"><span class="nav-number">4.1.</span> <span class="nav-text">经济系统</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#成长系统"><span class="nav-number">4.2.</span> <span class="nav-text">成长系统</span></a><ol class="nav-child"><li class="nav-item nav-level-4"><a class="nav-link" href="#主武器"><span class="nav-number">4.2.1.</span> <span class="nav-text">主武器</span></a></li><li class="nav-item nav-level-4"><a class="nav-link" href="#副武器"><span class="nav-number">4.2.2.</span> <span class="nav-text">副武器</span></a></li></ol></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#优化方案"><span class="nav-number">5.</span> <span class="nav-text">优化方案</span></a><ol class="nav-child"><li class="nav-item nav-level-3"><a class="nav-link" href="#武器-1"><span class="nav-number">5.1.</span> <span class="nav-text">武器</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#道具-1"><span class="nav-number">5.2.</span> <span class="nav-text">道具</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#病毒-1"><span class="nav-number">5.3.</span> <span class="nav-text">病毒</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#节奏变化"><span class="nav-number">5.4.</span> <span class="nav-text">节奏变化</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#系统-1"><span class="nav-number">5.5.</span> <span class="nav-text">系统</span></a></li><li class="nav-item nav-level-3"><a class="nav-link" href="#关系链"><span class="nav-number">5.6.</span> <span class="nav-text">关系链</span></a></li></ol></li><li class="nav-item nav-level-2"><a class="nav-link" href="#运营方案"><span class="nav-number">6.</span> <span class="nav-text">运营方案</span></a></li></ol></div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+        <div class="back-to-top">
+          <i class="fa fa-arrow-up"></i>
+          
+            <span id="scrollpercent"><span>0</span>%</span>
+          
+        </div>
+      
+
+    </div>
+  </aside>
+
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright">&copy; <span itemprop="copyrightYear">2020</span>
+  <span class="with-love">
+    <i class="fa fa-user"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">punkbear</span>
+
+  
+</div>
+
+
+  <div class="powered-by">Powered by <a class="theme-link" target="_blank" href="https://hexo.io">Hexo</a></div>
+
+
+
+  <span class="post-meta-divider">|</span>
+
+
+
+  <div class="theme-info">Theme &mdash; <a class="theme-link" target="_blank" href="https://github.com/iissnan/hexo-theme-next">NexT.Gemini</a> v5.1.4</div>
+
+
+
+
+        
+<div class="busuanzi-count">
+  <script async src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+  
+    <span class="site-uv">
+      <i class="fa fa-user"></i> 访问人数
+      <span class="busuanzi-value" id="busuanzi_value_site_uv"></span>
+      
+    </span>
+  
+
+  
+    <span class="site-pv">
+      <i class="fa fa-eye"></i> 总访问量
+      <span class="busuanzi-value" id="busuanzi_value_site_pv"></span>
+      
+    </span>
+  
+</div>
+
+
+
+
+
+
+
+
+        
+      </div>
+    </footer>
+
+    
+
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery/index.js?v=2.1.3"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+  
+
+  
+  
+    <script type="text/javascript" src="/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/utils.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/motion.js?v=5.1.4"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/js/src/affix.js?v=5.1.4"></script>
+
+  <script type="text/javascript" src="/js/src/schemes/pisces.js?v=5.1.4"></script>
+
+
+
+  
+  <script type="text/javascript" src="/js/src/scrollspy.js?v=5.1.4"></script>
+<script type="text/javascript" src="/js/src/post-details.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  <script type="text/javascript" src="/js/src/bootstrap.js?v=5.1.4"></script>
+
+
+
+  
+
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+  
+    <script type="text/javascript">
+      (function(d, s) {
+        var j, e = d.getElementsByTagName(s)[0];
+        if (typeof LivereTower === 'function') { return; }
+        j = d.createElement(s);
+        j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+        j.async = true;
+        e.parentNode.insertBefore(j, e);
+      })(document, 'script');
+    </script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    var isXml = true;
+    // Search DB path;
+    var search_path = "search.xml";
+    if (search_path.length === 0) {
+      search_path = "search.xml";
+    } else if (/json$/i.test(search_path)) {
+      isXml = false;
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    var onPopupClose = function (e) {
+      $('.popup').hide();
+      $('#local-search-input').val('');
+      $('.search-result-list').remove();
+      $('#no-result').remove();
+      $(".local-search-pop-overlay").remove();
+      $('body').css('overflow', '');
+    }
+
+    function proceedsearch() {
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay"></div>')
+        .css('overflow', 'hidden');
+      $('.search-popup-overlay').click(onPopupClose);
+      $('.popup').toggle();
+      var $localSearchInput = $('#local-search-input');
+      $localSearchInput.attr("autocapitalize", "none");
+      $localSearchInput.attr("autocorrect", "off");
+      $localSearchInput.focus();
+    }
+
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+      'use strict';
+
+      // start loading animation
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay">' +
+          '<div id="search-loading-icon">' +
+          '<i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>' +
+          '</div>' +
+          '</div>')
+        .css('overflow', 'hidden');
+      $("#search-loading-icon").css('margin', '20% auto 0 auto').css('text-align', 'center');
+
+      $.ajax({
+        url: path,
+        dataType: isXml ? "xml" : "json",
+        async: true,
+        success: function(res) {
+          // get the contents from search data
+          isfetched = true;
+          $('.popup').detach().appendTo('.header-inner');
+          var datas = isXml ? $("entry", res).map(function() {
+            return {
+              title: $("title", this).text(),
+              content: $("content",this).text(),
+              url: $("url" , this).text()
+            };
+          }).get() : res;
+          var input = document.getElementById(search_id);
+          var resultContent = document.getElementById(content_id);
+          var inputEventFunction = function() {
+            var searchText = input.value.trim().toLowerCase();
+            var keywords = searchText.split(/[\s\-]+/);
+            if (keywords.length > 1) {
+              keywords.push(searchText);
+            }
+            var resultItems = [];
+            if (searchText.length > 0) {
+              // perform local searching
+              datas.forEach(function(data) {
+                var isMatch = false;
+                var hitCount = 0;
+                var searchTextCount = 0;
+                var title = data.title.trim();
+                var titleInLowerCase = title.toLowerCase();
+                var content = data.content.trim().replace(/<[^>]+>/g,"");
+                var contentInLowerCase = content.toLowerCase();
+                var articleUrl = decodeURIComponent(data.url);
+                var indexOfTitle = [];
+                var indexOfContent = [];
+                // only match articles with not empty titles
+                if(title != '') {
+                  keywords.forEach(function(keyword) {
+                    function getIndexByWord(word, text, caseSensitive) {
+                      var wordLen = word.length;
+                      if (wordLen === 0) {
+                        return [];
+                      }
+                      var startPosition = 0, position = [], index = [];
+                      if (!caseSensitive) {
+                        text = text.toLowerCase();
+                        word = word.toLowerCase();
+                      }
+                      while ((position = text.indexOf(word, startPosition)) > -1) {
+                        index.push({position: position, word: word});
+                        startPosition = position + wordLen;
+                      }
+                      return index;
+                    }
+
+                    indexOfTitle = indexOfTitle.concat(getIndexByWord(keyword, titleInLowerCase, false));
+                    indexOfContent = indexOfContent.concat(getIndexByWord(keyword, contentInLowerCase, false));
+                  });
+                  if (indexOfTitle.length > 0 || indexOfContent.length > 0) {
+                    isMatch = true;
+                    hitCount = indexOfTitle.length + indexOfContent.length;
+                  }
+                }
+
+                // show search results
+
+                if (isMatch) {
+                  // sort index by position of keyword
+
+                  [indexOfTitle, indexOfContent].forEach(function (index) {
+                    index.sort(function (itemLeft, itemRight) {
+                      if (itemRight.position !== itemLeft.position) {
+                        return itemRight.position - itemLeft.position;
+                      } else {
+                        return itemLeft.word.length - itemRight.word.length;
+                      }
+                    });
+                  });
+
+                  // merge hits into slices
+
+                  function mergeIntoSlice(text, start, end, index) {
+                    var item = index[index.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    var hits = [];
+                    var searchTextCountInSlice = 0;
+                    while (position + word.length <= end && index.length != 0) {
+                      if (word === searchText) {
+                        searchTextCountInSlice++;
+                      }
+                      hits.push({position: position, length: word.length});
+                      var wordEnd = position + word.length;
+
+                      // move to next position of hit
+
+                      index.pop();
+                      while (index.length != 0) {
+                        item = index[index.length - 1];
+                        position = item.position;
+                        word = item.word;
+                        if (wordEnd > position) {
+                          index.pop();
+                        } else {
+                          break;
+                        }
+                      }
+                    }
+                    searchTextCount += searchTextCountInSlice;
+                    return {
+                      hits: hits,
+                      start: start,
+                      end: end,
+                      searchTextCount: searchTextCountInSlice
+                    };
+                  }
+
+                  var slicesOfTitle = [];
+                  if (indexOfTitle.length != 0) {
+                    slicesOfTitle.push(mergeIntoSlice(title, 0, title.length, indexOfTitle));
+                  }
+
+                  var slicesOfContent = [];
+                  while (indexOfContent.length != 0) {
+                    var item = indexOfContent[indexOfContent.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    // cut out 100 characters
+                    var start = position - 20;
+                    var end = position + 80;
+                    if(start < 0){
+                      start = 0;
+                    }
+                    if (end < position + word.length) {
+                      end = position + word.length;
+                    }
+                    if(end > content.length){
+                      end = content.length;
+                    }
+                    slicesOfContent.push(mergeIntoSlice(content, start, end, indexOfContent));
+                  }
+
+                  // sort slices in content by search text's count and hits' count
+
+                  slicesOfContent.sort(function (sliceLeft, sliceRight) {
+                    if (sliceLeft.searchTextCount !== sliceRight.searchTextCount) {
+                      return sliceRight.searchTextCount - sliceLeft.searchTextCount;
+                    } else if (sliceLeft.hits.length !== sliceRight.hits.length) {
+                      return sliceRight.hits.length - sliceLeft.hits.length;
+                    } else {
+                      return sliceLeft.start - sliceRight.start;
+                    }
+                  });
+
+                  // select top N slices in content
+
+                  var upperBound = parseInt('1');
+                  if (upperBound >= 0) {
+                    slicesOfContent = slicesOfContent.slice(0, upperBound);
+                  }
+
+                  // highlight title and content
+
+                  function highlightKeyword(text, slice) {
+                    var result = '';
+                    var prevEnd = slice.start;
+                    slice.hits.forEach(function (hit) {
+                      result += text.substring(prevEnd, hit.position);
+                      var end = hit.position + hit.length;
+                      result += '<b class="search-keyword">' + text.substring(hit.position, end) + '</b>';
+                      prevEnd = end;
+                    });
+                    result += text.substring(prevEnd, slice.end);
+                    return result;
+                  }
+
+                  var resultItem = '';
+
+                  if (slicesOfTitle.length != 0) {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + highlightKeyword(title, slicesOfTitle[0]) + "</a>";
+                  } else {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + title + "</a>";
+                  }
+
+                  slicesOfContent.forEach(function (slice) {
+                    resultItem += "<a href='" + articleUrl + "'>" +
+                      "<p class=\"search-result\">" + highlightKeyword(content, slice) +
+                      "...</p>" + "</a>";
+                  });
+
+                  resultItem += "</li>";
+                  resultItems.push({
+                    item: resultItem,
+                    searchTextCount: searchTextCount,
+                    hitCount: hitCount,
+                    id: resultItems.length
+                  });
+                }
+              })
+            };
+            if (keywords.length === 1 && keywords[0] === "") {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>'
+            } else if (resultItems.length === 0) {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>'
+            } else {
+              resultItems.sort(function (resultLeft, resultRight) {
+                if (resultLeft.searchTextCount !== resultRight.searchTextCount) {
+                  return resultRight.searchTextCount - resultLeft.searchTextCount;
+                } else if (resultLeft.hitCount !== resultRight.hitCount) {
+                  return resultRight.hitCount - resultLeft.hitCount;
+                } else {
+                  return resultRight.id - resultLeft.id;
+                }
+              });
+              var searchResultList = '<ul class=\"search-result-list\">';
+              resultItems.forEach(function (result) {
+                searchResultList += result.item;
+              })
+              searchResultList += "</ul>";
+              resultContent.innerHTML = searchResultList;
+            }
+          }
+
+          if ('auto' === 'auto') {
+            input.addEventListener('input', inputEventFunction);
+          } else {
+            $('.search-icon').click(inputEventFunction);
+            input.addEventListener('keypress', function (event) {
+              if (event.keyCode === 13) {
+                inputEventFunction();
+              }
+            });
+          }
+
+          // remove loading animation
+          $(".local-search-pop-overlay").remove();
+          $('body').css('overflow', '');
+
+          proceedsearch();
+        }
+      });
+    }
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched === false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(onPopupClose);
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+    $(document).on('keyup', function (event) {
+      var shouldDismissSearchPopup = event.which === 27 &&
+        $('.search-popup').is(':visible');
+      if (shouldDismissSearchPopup) {
+        onPopupClose();
+      }
+    });
+  </script>
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+
+  
+
+</body>
+</html>
