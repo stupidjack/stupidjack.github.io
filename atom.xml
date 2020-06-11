@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>punkbear&#39;s blog</title>
+  <title>punkbear</title>
   
-  <subtitle>make fun stuff</subtitle>
+  <subtitle>make fun game</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://linguanghai.com/"/>
+  <link href="http://punkbear.fun/"/>
   <updated>2020-05-28T09:13:55.163Z</updated>
-  <id>http://linguanghai.com/</id>
+  <id>http://punkbear.fun/</id>
   
   <author>
     <name>punkbear</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>《做饭电台》上线啦</title>
-    <link href="http://linguanghai.com/uncategorized/makefunfm/"/>
-    <id>http://linguanghai.com/uncategorized/makefunfm/</id>
+    <link href="http://punkbear.fun/uncategorized/makefunfm/"/>
+    <id>http://punkbear.fun/uncategorized/makefunfm/</id>
     <published>2020-05-28T08:46:13.000Z</published>
     <updated>2020-05-28T09:13:55.163Z</updated>
     
@@ -40,14 +40,14 @@
     
     
     
-      <category term="播客" scheme="http://linguanghai.com/tags/%E6%92%AD%E5%AE%A2/"/>
+      <category term="播客" scheme="http://punkbear.fun/tags/%E6%92%AD%E5%AE%A2/"/>
     
   </entry>
   
   <entry>
     <title>走出“绝望谷”</title>
-    <link href="http://linguanghai.com/uncategorized/vod/"/>
-    <id>http://linguanghai.com/uncategorized/vod/</id>
+    <link href="http://punkbear.fun/uncategorized/vod/"/>
+    <id>http://punkbear.fun/uncategorized/vod/</id>
     <published>2020-05-11T02:57:18.000Z</published>
     <updated>2020-05-11T03:34:24.747Z</updated>
     
@@ -66,14 +66,14 @@
     
     
     
-      <category term="文明, 帝国时代, 绝望谷, 席德梅尔" scheme="http://linguanghai.com/tags/%E6%96%87%E6%98%8E-%E5%B8%9D%E5%9B%BD%E6%97%B6%E4%BB%A3-%E7%BB%9D%E6%9C%9B%E8%B0%B7-%E5%B8%AD%E5%BE%B7%E6%A2%85%E5%B0%94/"/>
+      <category term="文明, 帝国时代, 绝望谷, 席德梅尔" scheme="http://punkbear.fun/tags/%E6%96%87%E6%98%8E-%E5%B8%9D%E5%9B%BD%E6%97%B6%E4%BB%A3-%E7%BB%9D%E6%9C%9B%E8%B0%B7-%E5%B8%AD%E5%BE%B7%E6%A2%85%E5%B0%94/"/>
     
   </entry>
   
   <entry>
     <title>小程序的的未来</title>
-    <link href="http://linguanghai.com/uncategorized/miniprogram/"/>
-    <id>http://linguanghai.com/uncategorized/miniprogram/</id>
+    <link href="http://punkbear.fun/uncategorized/miniprogram/"/>
+    <id>http://punkbear.fun/uncategorized/miniprogram/</id>
     <published>2020-05-08T02:35:52.000Z</published>
     <updated>2020-05-08T02:43:24.717Z</updated>
     
@@ -92,14 +92,14 @@
     
     
     
-      <category term="小程序, iPhone, App Store" scheme="http://linguanghai.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F-iPhone-App-Store/"/>
+      <category term="小程序, iPhone, App Store" scheme="http://punkbear.fun/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F-iPhone-App-Store/"/>
     
   </entry>
   
   <entry>
     <title>井深大对索尼的愿景</title>
-    <link href="http://linguanghai.com/uncategorized/sonydesign/"/>
-    <id>http://linguanghai.com/uncategorized/sonydesign/</id>
+    <link href="http://punkbear.fun/uncategorized/sonydesign/"/>
+    <id>http://punkbear.fun/uncategorized/sonydesign/</id>
     <published>2020-05-03T03:39:57.000Z</published>
     <updated>2020-05-03T03:56:33.175Z</updated>
     
@@ -118,14 +118,14 @@
     
     
     
-      <category term="索尼, 井深大" scheme="http://linguanghai.com/tags/%E7%B4%A2%E5%B0%BC-%E4%BA%95%E6%B7%B1%E5%A4%A7/"/>
+      <category term="索尼, 井深大" scheme="http://punkbear.fun/tags/%E7%B4%A2%E5%B0%BC-%E4%BA%95%E6%B7%B1%E5%A4%A7/"/>
     
   </entry>
   
   <entry>
     <title>未来地图</title>
-    <link href="http://linguanghai.com/uncategorized/wtf/"/>
-    <id>http://linguanghai.com/uncategorized/wtf/</id>
+    <link href="http://punkbear.fun/uncategorized/wtf/"/>
+    <id>http://punkbear.fun/uncategorized/wtf/</id>
     <published>2020-04-23T03:57:58.000Z</published>
     <updated>2020-04-23T04:00:47.061Z</updated>
     
@@ -145,14 +145,14 @@
     
     
     
-      <category term="书籍" scheme="http://linguanghai.com/tags/%E4%B9%A6%E7%B1%8D/"/>
+      <category term="书籍" scheme="http://punkbear.fun/tags/%E4%B9%A6%E7%B1%8D/"/>
     
   </entry>
   
   <entry>
     <title>2020 一切的起点</title>
-    <link href="http://linguanghai.com/uncategorized/2020guideline/"/>
-    <id>http://linguanghai.com/uncategorized/2020guideline/</id>
+    <link href="http://punkbear.fun/uncategorized/2020guideline/"/>
+    <id>http://punkbear.fun/uncategorized/2020guideline/</id>
     <published>2020-04-22T15:12:01.000Z</published>
     <updated>2020-04-22T15:20:18.326Z</updated>
     
@@ -176,8 +176,8 @@
   
   <entry>
     <title>机器人叛乱,AI,自然界的去中心化</title>
-    <link href="http://linguanghai.com/uncategorized/automata/"/>
-    <id>http://linguanghai.com/uncategorized/automata/</id>
+    <link href="http://punkbear.fun/uncategorized/automata/"/>
+    <id>http://punkbear.fun/uncategorized/automata/</id>
     <published>2019-05-04T07:32:53.000Z</published>
     <updated>2019-06-17T17:02:48.213Z</updated>
     
@@ -196,14 +196,14 @@
     
     
     
-      <category term="去中心化, 机器人叛乱, 进化" scheme="http://linguanghai.com/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%9B%E4%B9%B1-%E8%BF%9B%E5%8C%96/"/>
+      <category term="去中心化, 机器人叛乱, 进化" scheme="http://punkbear.fun/tags/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%9B%E4%B9%B1-%E8%BF%9B%E5%8C%96/"/>
     
   </entry>
   
   <entry>
     <title>《消灭病毒》游戏分析</title>
-    <link href="http://linguanghai.com/uncategorized/destroyvirus/"/>
-    <id>http://linguanghai.com/uncategorized/destroyvirus/</id>
+    <link href="http://punkbear.fun/uncategorized/destroyvirus/"/>
+    <id>http://punkbear.fun/uncategorized/destroyvirus/</id>
     <published>2019-03-27T05:27:48.000Z</published>
     <updated>2019-06-17T17:02:48.292Z</updated>
     
@@ -223,14 +223,14 @@
     
     
     
-      <category term="游戏, 消灭病毒, 微信小游戏" scheme="http://linguanghai.com/tags/%E6%B8%B8%E6%88%8F-%E6%B6%88%E7%81%AD%E7%97%85%E6%AF%92-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F/"/>
+      <category term="游戏, 消灭病毒, 微信小游戏" scheme="http://punkbear.fun/tags/%E6%B8%B8%E6%88%8F-%E6%B6%88%E7%81%AD%E7%97%85%E6%AF%92-%E5%BE%AE%E4%BF%A1%E5%B0%8F%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
   <entry>
     <title>gpupipeline</title>
-    <link href="http://linguanghai.com/uncategorized/gpupipeline/"/>
-    <id>http://linguanghai.com/uncategorized/gpupipeline/</id>
+    <link href="http://punkbear.fun/uncategorized/gpupipeline/"/>
+    <id>http://punkbear.fun/uncategorized/gpupipeline/</id>
     <published>2019-03-16T14:37:21.000Z</published>
     <updated>2019-06-17T17:02:48.317Z</updated>
     
@@ -244,8 +244,8 @@
   
   <entry>
     <title>时空尺度与自我变革</title>
-    <link href="http://linguanghai.com/uncategorized/cogsize/"/>
-    <id>http://linguanghai.com/uncategorized/cogsize/</id>
+    <link href="http://punkbear.fun/uncategorized/cogsize/"/>
+    <id>http://punkbear.fun/uncategorized/cogsize/</id>
     <published>2019-03-16T14:15:28.000Z</published>
     <updated>2019-06-17T17:02:48.291Z</updated>
     
@@ -267,8 +267,8 @@
   
   <entry>
     <title>抢占心智资源</title>
-    <link href="http://linguanghai.com/uncategorized/twohourbrand/"/>
-    <id>http://linguanghai.com/uncategorized/twohourbrand/</id>
+    <link href="http://punkbear.fun/uncategorized/twohourbrand/"/>
+    <id>http://punkbear.fun/uncategorized/twohourbrand/</id>
     <published>2019-03-11T03:25:17.000Z</published>
     <updated>2019-06-17T17:02:48.330Z</updated>
     
@@ -288,14 +288,14 @@
     
     
     
-      <category term="营销, 品牌" scheme="http://linguanghai.com/tags/%E8%90%A5%E9%94%80-%E5%93%81%E7%89%8C/"/>
+      <category term="营销, 品牌" scheme="http://punkbear.fun/tags/%E8%90%A5%E9%94%80-%E5%93%81%E7%89%8C/"/>
     
   </entry>
   
   <entry>
     <title>先做再想</title>
-    <link href="http://linguanghai.com/uncategorized/workbeforepassion/"/>
-    <id>http://linguanghai.com/uncategorized/workbeforepassion/</id>
+    <link href="http://punkbear.fun/uncategorized/workbeforepassion/"/>
+    <id>http://punkbear.fun/uncategorized/workbeforepassion/</id>
     <published>2019-02-23T07:39:30.000Z</published>
     <updated>2019-06-17T17:02:48.331Z</updated>
     
@@ -317,14 +317,14 @@
     
     
     
-      <category term="阳志平, 真实的自我, 行动" scheme="http://linguanghai.com/tags/%E9%98%B3%E5%BF%97%E5%B9%B3-%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E6%88%91-%E8%A1%8C%E5%8A%A8/"/>
+      <category term="阳志平, 真实的自我, 行动" scheme="http://punkbear.fun/tags/%E9%98%B3%E5%BF%97%E5%B9%B3-%E7%9C%9F%E5%AE%9E%E7%9A%84%E8%87%AA%E6%88%91-%E8%A1%8C%E5%8A%A8/"/>
     
   </entry>
   
   <entry>
     <title>将心注入</title>
-    <link href="http://linguanghai.com/uncategorized/pour/"/>
-    <id>http://linguanghai.com/uncategorized/pour/</id>
+    <link href="http://punkbear.fun/uncategorized/pour/"/>
+    <id>http://punkbear.fun/uncategorized/pour/</id>
     <published>2019-02-20T07:12:26.000Z</published>
     <updated>2019-06-17T17:02:48.323Z</updated>
     
@@ -343,14 +343,14 @@
     
     
     
-      <category term="星巴克, 咖啡， 经营" scheme="http://linguanghai.com/tags/%E6%98%9F%E5%B7%B4%E5%85%8B-%E5%92%96%E5%95%A1%EF%BC%8C-%E7%BB%8F%E8%90%A5/"/>
+      <category term="星巴克, 咖啡， 经营" scheme="http://punkbear.fun/tags/%E6%98%9F%E5%B7%B4%E5%85%8B-%E5%92%96%E5%95%A1%EF%BC%8C-%E7%BB%8F%E8%90%A5/"/>
     
   </entry>
   
   <entry>
     <title>聊一聊行动瘫痪</title>
-    <link href="http://linguanghai.com/uncategorized/paralysis/"/>
-    <id>http://linguanghai.com/uncategorized/paralysis/</id>
+    <link href="http://punkbear.fun/uncategorized/paralysis/"/>
+    <id>http://punkbear.fun/uncategorized/paralysis/</id>
     <published>2019-02-18T03:32:44.000Z</published>
     <updated>2019-06-17T17:02:48.323Z</updated>
     
@@ -370,14 +370,14 @@
     
     
     
-      <category term="认知" scheme="http://linguanghai.com/tags/%E8%AE%A4%E7%9F%A5/"/>
+      <category term="认知" scheme="http://punkbear.fun/tags/%E8%AE%A4%E7%9F%A5/"/>
     
   </entry>
   
   <entry>
     <title>谈谈茶叶</title>
-    <link href="http://linguanghai.com/uncategorized/teabusiness/"/>
-    <id>http://linguanghai.com/uncategorized/teabusiness/</id>
+    <link href="http://punkbear.fun/uncategorized/teabusiness/"/>
+    <id>http://punkbear.fun/uncategorized/teabusiness/</id>
     <published>2019-01-31T05:18:17.000Z</published>
     <updated>2019-06-17T17:02:48.327Z</updated>
     
@@ -396,14 +396,14 @@
     
     
     
-      <category term="茶叶, 生意" scheme="http://linguanghai.com/tags/%E8%8C%B6%E5%8F%B6-%E7%94%9F%E6%84%8F/"/>
+      <category term="茶叶, 生意" scheme="http://punkbear.fun/tags/%E8%8C%B6%E5%8F%B6-%E7%94%9F%E6%84%8F/"/>
     
   </entry>
   
   <entry>
     <title>基因与互联网</title>
-    <link href="http://linguanghai.com/uncategorized/geneandinternet/"/>
-    <id>http://linguanghai.com/uncategorized/geneandinternet/</id>
+    <link href="http://punkbear.fun/uncategorized/geneandinternet/"/>
+    <id>http://punkbear.fun/uncategorized/geneandinternet/</id>
     <published>2019-01-30T03:41:11.000Z</published>
     <updated>2019-06-17T17:02:48.295Z</updated>
     
@@ -423,14 +423,14 @@
     
     
     
-      <category term="思考" scheme="http://linguanghai.com/tags/%E6%80%9D%E8%80%83/"/>
+      <category term="思考" scheme="http://punkbear.fun/tags/%E6%80%9D%E8%80%83/"/>
     
   </entry>
   
   <entry>
     <title>认识自己的大脑</title>
-    <link href="http://linguanghai.com/uncategorized/brain/"/>
-    <id>http://linguanghai.com/uncategorized/brain/</id>
+    <link href="http://punkbear.fun/uncategorized/brain/"/>
+    <id>http://punkbear.fun/uncategorized/brain/</id>
     <published>2019-01-24T06:14:20.000Z</published>
     <updated>2019-06-17T17:02:48.288Z</updated>
     
@@ -450,14 +450,14 @@
     
     
     
-      <category term="认知, 内隐" scheme="http://linguanghai.com/tags/%E8%AE%A4%E7%9F%A5-%E5%86%85%E9%9A%90/"/>
+      <category term="认知, 内隐" scheme="http://punkbear.fun/tags/%E8%AE%A4%E7%9F%A5-%E5%86%85%E9%9A%90/"/>
     
   </entry>
   
   <entry>
     <title>一杯咖啡吸收宇宙能量</title>
-    <link href="http://linguanghai.com/uncategorized/coffeandhuawei/"/>
-    <id>http://linguanghai.com/uncategorized/coffeandhuawei/</id>
+    <link href="http://punkbear.fun/uncategorized/coffeandhuawei/"/>
+    <id>http://punkbear.fun/uncategorized/coffeandhuawei/</id>
     <published>2019-01-22T10:29:42.000Z</published>
     <updated>2019-06-17T17:02:48.290Z</updated>
     
@@ -479,14 +479,14 @@
     
     
     
-      <category term="华为, 危机意识，自主创新，教育" scheme="http://linguanghai.com/tags/%E5%8D%8E%E4%B8%BA-%E5%8D%B1%E6%9C%BA%E6%84%8F%E8%AF%86%EF%BC%8C%E8%87%AA%E4%B8%BB%E5%88%9B%E6%96%B0%EF%BC%8C%E6%95%99%E8%82%B2/"/>
+      <category term="华为, 危机意识，自主创新，教育" scheme="http://punkbear.fun/tags/%E5%8D%8E%E4%B8%BA-%E5%8D%B1%E6%9C%BA%E6%84%8F%E8%AF%86%EF%BC%8C%E8%87%AA%E4%B8%BB%E5%88%9B%E6%96%B0%EF%BC%8C%E6%95%99%E8%82%B2/"/>
     
   </entry>
   
   <entry>
     <title>使用python学习数学</title>
-    <link href="http://linguanghai.com/uncategorized/calculusintro/"/>
-    <id>http://linguanghai.com/uncategorized/calculusintro/</id>
+    <link href="http://punkbear.fun/uncategorized/calculusintro/"/>
+    <id>http://punkbear.fun/uncategorized/calculusintro/</id>
     <published>2019-01-22T07:58:54.000Z</published>
     <updated>2019-06-17T17:02:48.289Z</updated>
     
@@ -503,14 +503,14 @@
     
     
     
-      <category term="math" scheme="http://linguanghai.com/tags/math/"/>
+      <category term="math" scheme="http://punkbear.fun/tags/math/"/>
     
   </entry>
   
   <entry>
     <title>品一杯好茶，睡一个好觉</title>
-    <link href="http://linguanghai.com/uncategorized/teaandsleep/"/>
-    <id>http://linguanghai.com/uncategorized/teaandsleep/</id>
+    <link href="http://punkbear.fun/uncategorized/teaandsleep/"/>
+    <id>http://punkbear.fun/uncategorized/teaandsleep/</id>
     <published>2019-01-18T08:11:00.000Z</published>
     <updated>2019-06-17T17:02:48.326Z</updated>
     
@@ -528,7 +528,7 @@
     
     
     
-      <category term="生活" scheme="http://linguanghai.com/tags/%E7%94%9F%E6%B4%BB/"/>
+      <category term="生活" scheme="http://punkbear.fun/tags/%E7%94%9F%E6%B4%BB/"/>
     
   </entry>
   
