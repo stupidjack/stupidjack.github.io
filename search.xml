@@ -123,31 +123,6 @@
       </tags>
   </entry>
   <entry>
-    <title>创造，不要制造</title>
-    <url>/uncategorized/createandmake/</url>
-    <content><![CDATA[<img src="/uncategorized/createandmake/coffeshop.jpeg">
-
-<p>做新游戏的又遇到坑了，核心玩法上还是有问题。<br>在整理书柜的时候翻出了一本过去看过的游戏设计的书。但是里面的内容都忘了。这读了和没读一样啊，罪过。<br>里面关于游戏创意的最能引起我共鸣的是：</p>
-<ol>
-<li>不要从现有游戏出发去想创意，现有的游戏是素材，不是创意的源点</li>
-<li>不要从类型出发</li>
-</ol>
-<p>回顾自己过去做游戏的方法，作为程序更多是站在实现的角度去思考问题。所以在创意上没有进行深入的思考。可能和我一起合作的策划也是吧。<br>做商业产品形成的路径依赖很容易把团队带到坑里面去而不自知。头破血流以后才明白代价有多高昂。</p>
-<p>我们是在创造游戏，而不是制造游戏。要把自己的感官，触觉，嗅觉，逻辑，想象力全部打开，成为全息的相机。要从生活和玩耍中找到游戏的创意，而不是在现有产品上去做微调。</p>
-<p>可能100个想法里面只有一个能够成为最终的游戏。这个过程是必经之路，是痛苦的，焦虑的，当然最后也是快乐的，值得的。</p>
-<p>不管是做游戏还是做工具都要经过这样不断地求索，不能偷懒，不能走捷径。</p>
-<p>心怀用户，创造全新的体验，给用户带来价值。</p>
-]]></content>
-      <tags>
-        <tag>游戏设计</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>gpupipeline</title>
-    <url>/uncategorized/gpupipeline/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>时空尺度与自我变革</title>
     <url>/uncategorized/cogsize/</url>
     <content><![CDATA[<p>最近读完了一本好书《认知尺度》，分别从时空、思维和人生三个角度讨论了认知的尺度。我比较感兴趣的是时空与自我变革。</p>
@@ -173,6 +148,26 @@
 </ul>
 <h2 id="自我变革与知行合一"><a href="#自我变革与知行合一" class="headerlink" title="自我变革与知行合一"></a>自我变革与知行合一</h2><p>杰出的创造者都是不满足于当前的成绩的，要不断的跳出舒适区去挑战自己。就好像液体的流动，如果变成一潭死水那么就不会孕育出任何新的生命了。结合时空的尺度这个阶段如果单单只是提升认知还是不够的，必须具有具象的认知，也就是说要去实践。</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>创造，不要制造</title>
+    <url>/uncategorized/createandmake/</url>
+    <content><![CDATA[<img src="/uncategorized/createandmake/coffeshop.jpeg">
+
+<p>做新游戏的又遇到坑了，核心玩法上还是有问题。<br>在整理书柜的时候翻出了一本过去看过的游戏设计的书。但是里面的内容都忘了。这读了和没读一样啊，罪过。<br>里面关于游戏创意的最能引起我共鸣的是：</p>
+<ol>
+<li>不要从现有游戏出发去想创意，现有的游戏是素材，不是创意的源点</li>
+<li>不要从类型出发</li>
+</ol>
+<p>回顾自己过去做游戏的方法，作为程序更多是站在实现的角度去思考问题。所以在创意上没有进行深入的思考。可能和我一起合作的策划也是吧。<br>做商业产品形成的路径依赖很容易把团队带到坑里面去而不自知。头破血流以后才明白代价有多高昂。</p>
+<p>我们是在创造游戏，而不是制造游戏。要把自己的感官，触觉，嗅觉，逻辑，想象力全部打开，成为全息的相机。要从生活和玩耍中找到游戏的创意，而不是在现有产品上去做微调。</p>
+<p>可能100个想法里面只有一个能够成为最终的游戏。这个过程是必经之路，是痛苦的，焦虑的，当然最后也是快乐的，值得的。</p>
+<p>不管是做游戏还是做工具都要经过这样不断地求索，不能偷懒，不能走捷径。</p>
+<p>心怀用户，创造全新的体验，给用户带来价值。</p>
+]]></content>
+      <tags>
+        <tag>游戏设计</tag>
+      </tags>
   </entry>
   <entry>
     <title>《消灭病毒》游戏分析</title>
@@ -291,38 +286,6 @@
       </tags>
   </entry>
   <entry>
-    <title>身体是本钱</title>
-    <url>/uncategorized/health/</url>
-    <content><![CDATA[<p>广州的天气前一阵子开始有雾霾了，可能是因为好久没有吸雾霾了，身体已经不习惯了，导致这段时间身体很不舒服，工作效率降低，这让我很焦躁。</p>
-<h2 id="一些迷思"><a href="#一些迷思" class="headerlink" title="一些迷思"></a>一些迷思</h2><p>之前，尤其是在北京的时候，我对与生病的态度就是无所谓。自己扛过去就行了。然后在身体不舒服，状态不好的时候还在工作。自然工作效率就低，心情也会受到影响。</p>
-<p>现在想想，真蠢啊。</p>
-<h2 id="改变心态和方法"><a href="#改变心态和方法" class="headerlink" title="改变心态和方法"></a>改变心态和方法</h2><p>身体不舒服的时候，停止工作，吃药，去休息。<br>心情烦躁的时候，停止工作，去休息。<br>每一天一点进步要比一蹴而就来的更快。就像昨天，心情烦躁以后做任何事情都不顺心。<br>只有身体健康了，心情才会好，心情好了，工作效率才会高，这样就避免了恶性循环。</p>
-<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>多锻炼身体，要聪明的工作和生活。</p>
-]]></content>
-      <tags>
-        <tag>健康, 效率</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《做饭电台》上线啦</title>
-    <url>/uncategorized/makefunfm/</url>
-    <content><![CDATA[<img src="/uncategorized/makefunfm/nitrome.jpg">
-
-<p>做饭电台上线了，这是我独立运营和制作的播客节目。主要聊一些自己感兴趣的产品、公司、技术、商业等方面的内容。</p>
-<p>目前上了两个平台：喜马拉雅和网易云音乐。</p>
-<p>第一期节目讲了我很欣赏的游戏公司:nitrome。</p>
-<p>从nitrome的历史聊到我比较喜欢的作品，时间不长只有10多分钟，但是内容很硬核。</p>
-<p>希望能给你带来启发：）</p>
-<h2 id="收听链接"><a href="#收听链接" class="headerlink" title="收听链接"></a>收听链接</h2><img src="/uncategorized/makefunfm/makefun.png">
-
-<p>喜马拉雅: <a href="https://www.ximalaya.com/keji/38229063/" target="_blank" rel="noopener">https://www.ximalaya.com/keji/38229063/</a></p>
-<p>网易云音乐: <a href="https://music.163.com/#/program?id=2067276458" target="_blank" rel="noopener">https://music.163.com/#/program?id=2067276458</a></p>
-]]></content>
-      <tags>
-        <tag>播客</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>基因与互联网</title>
     <url>/uncategorized/geneandinternet/</url>
     <content><![CDATA[<img src="/uncategorized/geneandinternet/gene.jpg">
@@ -336,6 +299,53 @@
 ]]></content>
       <tags>
         <tag>思考</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Getting Practical</title>
+    <url>/uncategorized/gettingreal/</url>
+    <content><![CDATA[<img src="/uncategorized/gettingreal/fuck.jpeg">
+<p>酷的东西总是有人和资金在追捧，从智能手机、智能硬件、3D打印、AI、区块链。所有人关注的都是成为下一个独角兽。当然这没什么不好，但是冷静下来，我们看一下最基本的数学概率，每年有超过99%的公司都会死掉。当然这里不是让你变得短视和没有野心。最主要的问题是我们看一下商业模型，从上一个2000年互联网泡沫的破裂到现在移动互联网的10年，花钱成为了比挣钱更重要的能力。创业者们想的都是如何融到下一轮。fuck,整个问题都搞错了好吗？</p>
+<h2 id="Fuck-Startup"><a href="#Fuck-Startup" class="headerlink" title="Fuck Startup"></a>Fuck Startup</h2><p>更好的办公室，更快的机器，最好的人体工学椅，最好是免费的午餐和按摩。很多的招聘广告把这些当做噱头来吸引人才。但是上面这些只不过是公司在发展到一定阶段之后配备的福利但是如果一家初创公司一开始就这样铺张浪费，就是本末倒置。<br>更可怕的是公司的管理层因为一开始拥有大额的融资，产生盲目的乐观主义，认为接下来还会融到更多的钱，没想到经济是有周期的。下一轮融不到怎么办？<br>如果你是和我一样的初创公司，刚开始只有一两个人。资源、资金、人力都有限，完全可以跳出这个老鼠赛跑。因为刚开始追求的不是改变世界而是活下去。</p>
+<h2 id="回到本质"><a href="#回到本质" class="headerlink" title="回到本质"></a>回到本质</h2><p>公司的本质就是服务自己的用户并盈利。说直白点就是挣钱。这一点很直白但是好像没有人愿意承认，包括之前的自己也是。总是觉得新技术一定会诞生新的商业机会，从一个潮流追逐另一个潮流，时间就这样白白浪费了。<br>相比于去创造新的技术，引领新的潮流，把关注点放在现有的技术栈能优化和解决的现实问题是更好的方案。服务好自己的客户并创造可以持续的现金流是初创公司的头等要事，如果一开始就不能盈利那么规模的扩大只会是悲剧,共享单车行业目前来看就是一场公共资源的大型浪费换来的是少数人的套现。如果这是创业我宁可不要。</p>
+<h2 id="Hard-smart-work"><a href="#Hard-smart-work" class="headerlink" title="Hard smart work"></a>Hard smart work</h2><p>我强调Hard smart work而不只是Hard work。不要迷失在技术细节里面，快速搭建出产品原型，立刻投入测试。如果产品的开发周期过长就需要考虑是不是目前的条件下方向一开始就错了。勇敢的砍掉等待时机成熟了再去做。先从手头的资源入手，充分压榨现在的资源搭建产品。快速测试不只是产品层面还要从市场的角度去检验。通过在facebook、instagram、twitter、 youtube这些平台投放广告，快速回收用户反馈信息，这些信息包括转化率，点击率，时长等维度的信息。然后再根据得到的反馈调整产品的功能和开发策略。这是对于初创公司目前来看最适合的道路。</p>
+<h2 id="耐心"><a href="#耐心" class="headerlink" title="耐心"></a>耐心</h2><p>最后我要说有一下耐心。测试和调整是枯燥的，回复用户留言是无聊的，修改登录页的展现方式是无趣的，这一切的一切都不是很酷。当然不酷，我们是要打造一家公司或者一款产品，那些酷的部分只占到10%不到，剩下的都是持续的改进和调整。如果没做好这种心理准备就不要开始一项事业。</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>上面是我对创业这件事情的思考，Getting Practical对于创业者和公司都是最重要的事情。新的一年开始脚踏实地，真正深入到用户中去，满足他们的需求，哪怕这些需求不够性感，不够够酷，但是记住这里面才是我们一直苦苦寻找的金矿。</p>
+]]></content>
+      <tags>
+        <tag>创业, 思考</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>gpupipeline</title>
+    <url>/uncategorized/gpupipeline/</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>足球让我快乐</title>
+    <url>/uncategorized/happyfootball/</url>
+    <content><![CDATA[<img src="/uncategorized/happyfootball/football.jpeg">
+
+<p>现在每天只要一有时间就去到楼下的足球场踢一会儿，更多是自己在玩。偶尔颠颠球，偶尔练习一下盘带和射门。玩的不亦乐乎。尤其是在工作了一段时间之后踢一会儿足球对心智帮助很大。</p>
+<h2 id="美丽的运动"><a href="#美丽的运动" class="headerlink" title="美丽的运动"></a>美丽的运动</h2><p>在我眼里足球是一项美丽的运动。就像马拉多纳说的我是不完美的，但是足球是完美的。用双脚和身体触碰足球的不同部位，总是能产生不同的结果和反馈。尤其是对足球的控制让我着迷。很多时候感觉不是在运动而是在跳舞。节奏和韵律存在于每一次的触球和传球当中。身体重心的摇晃伴随着射门的声音，这可能是最美妙的音乐了。</p>
+<h2 id="文化造就风格"><a href="#文化造就风格" class="headerlink" title="文化造就风格"></a>文化造就风格</h2><p>偶然间有机会让被拉进了一个外国友人的足球群。有英国的，法国的，德国的，意大利的，西班牙等等，不同肤色，不同文化，不同国籍的人在一起踢球。是一件很有趣的事情，尤其让我着迷的是不同的文化造就了不同的风格。南欧地区的人踢球激情四射，北欧和澳洲的人则更理性。最重要的是在场上的交流要比国内踢球要大得多。为每一次妙传喝彩，为每一次错误的选择抱怨。进球了以后来一句：“That’s what i am talking about!”，听着也特别爽。而且能看出来虽然从事着不同的行业，但是真的爱足球。我本身就是一个比较喜欢交流的人了，但是和他们相比我在场上还是太过木讷。</p>
+<h2 id="快乐更重要"><a href="#快乐更重要" class="headerlink" title="快乐更重要"></a>快乐更重要</h2><p>之前一直在想马拉多纳，齐达内，皮尔洛这些球星的想象力和对球的感觉从哪来。我在现实中貌似找到了答案，抛开训练、设施、环境这些因素，我觉得流淌在他们体内对快乐的追求可能才是一切的内因。相比于成绩、球星，如果有更多的人参与进来，快乐的踢球，哪怕不出成绩也挺好的：）</p>
+]]></content>
+      <tags>
+        <tag>足球</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>身体是本钱</title>
+    <url>/uncategorized/health/</url>
+    <content><![CDATA[<p>广州的天气前一阵子开始有雾霾了，可能是因为好久没有吸雾霾了，身体已经不习惯了，导致这段时间身体很不舒服，工作效率降低，这让我很焦躁。</p>
+<h2 id="一些迷思"><a href="#一些迷思" class="headerlink" title="一些迷思"></a>一些迷思</h2><p>之前，尤其是在北京的时候，我对与生病的态度就是无所谓。自己扛过去就行了。然后在身体不舒服，状态不好的时候还在工作。自然工作效率就低，心情也会受到影响。</p>
+<p>现在想想，真蠢啊。</p>
+<h2 id="改变心态和方法"><a href="#改变心态和方法" class="headerlink" title="改变心态和方法"></a>改变心态和方法</h2><p>身体不舒服的时候，停止工作，吃药，去休息。<br>心情烦躁的时候，停止工作，去休息。<br>每一天一点进步要比一蹴而就来的更快。就像昨天，心情烦躁以后做任何事情都不顺心。<br>只有身体健康了，心情才会好，心情好了，工作效率才会高，这样就避免了恶性循环。</p>
+<h2 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h2><p>多锻炼身体，要聪明的工作和生活。</p>
+]]></content>
+      <tags>
+        <tag>健康, 效率</tag>
       </tags>
   </entry>
   <entry>
@@ -369,53 +379,23 @@
       </tags>
   </entry>
   <entry>
-    <title>Getting Practical</title>
-    <url>/uncategorized/gettingreal/</url>
-    <content><![CDATA[<img src="/uncategorized/gettingreal/fuck.jpeg">
-<p>酷的东西总是有人和资金在追捧，从智能手机、智能硬件、3D打印、AI、区块链。所有人关注的都是成为下一个独角兽。当然这没什么不好，但是冷静下来，我们看一下最基本的数学概率，每年有超过99%的公司都会死掉。当然这里不是让你变得短视和没有野心。最主要的问题是我们看一下商业模型，从上一个2000年互联网泡沫的破裂到现在移动互联网的10年，花钱成为了比挣钱更重要的能力。创业者们想的都是如何融到下一轮。fuck,整个问题都搞错了好吗？</p>
-<h2 id="Fuck-Startup"><a href="#Fuck-Startup" class="headerlink" title="Fuck Startup"></a>Fuck Startup</h2><p>更好的办公室，更快的机器，最好的人体工学椅，最好是免费的午餐和按摩。很多的招聘广告把这些当做噱头来吸引人才。但是上面这些只不过是公司在发展到一定阶段之后配备的福利但是如果一家初创公司一开始就这样铺张浪费，就是本末倒置。<br>更可怕的是公司的管理层因为一开始拥有大额的融资，产生盲目的乐观主义，认为接下来还会融到更多的钱，没想到经济是有周期的。下一轮融不到怎么办？<br>如果你是和我一样的初创公司，刚开始只有一两个人。资源、资金、人力都有限，完全可以跳出这个老鼠赛跑。因为刚开始追求的不是改变世界而是活下去。</p>
-<h2 id="回到本质"><a href="#回到本质" class="headerlink" title="回到本质"></a>回到本质</h2><p>公司的本质就是服务自己的用户并盈利。说直白点就是挣钱。这一点很直白但是好像没有人愿意承认，包括之前的自己也是。总是觉得新技术一定会诞生新的商业机会，从一个潮流追逐另一个潮流，时间就这样白白浪费了。<br>相比于去创造新的技术，引领新的潮流，把关注点放在现有的技术栈能优化和解决的现实问题是更好的方案。服务好自己的客户并创造可以持续的现金流是初创公司的头等要事，如果一开始就不能盈利那么规模的扩大只会是悲剧,共享单车行业目前来看就是一场公共资源的大型浪费换来的是少数人的套现。如果这是创业我宁可不要。</p>
-<h2 id="Hard-smart-work"><a href="#Hard-smart-work" class="headerlink" title="Hard smart work"></a>Hard smart work</h2><p>我强调Hard smart work而不只是Hard work。不要迷失在技术细节里面，快速搭建出产品原型，立刻投入测试。如果产品的开发周期过长就需要考虑是不是目前的条件下方向一开始就错了。勇敢的砍掉等待时机成熟了再去做。先从手头的资源入手，充分压榨现在的资源搭建产品。快速测试不只是产品层面还要从市场的角度去检验。通过在facebook、instagram、twitter、 youtube这些平台投放广告，快速回收用户反馈信息，这些信息包括转化率，点击率，时长等维度的信息。然后再根据得到的反馈调整产品的功能和开发策略。这是对于初创公司目前来看最适合的道路。</p>
-<h2 id="耐心"><a href="#耐心" class="headerlink" title="耐心"></a>耐心</h2><p>最后我要说有一下耐心。测试和调整是枯燥的，回复用户留言是无聊的，修改登录页的展现方式是无趣的，这一切的一切都不是很酷。当然不酷，我们是要打造一家公司或者一款产品，那些酷的部分只占到10%不到，剩下的都是持续的改进和调整。如果没做好这种心理准备就不要开始一项事业。</p>
-<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>上面是我对创业这件事情的思考，Getting Practical对于创业者和公司都是最重要的事情。新的一年开始脚踏实地，真正深入到用户中去，满足他们的需求，哪怕这些需求不够性感，不够够酷，但是记住这里面才是我们一直苦苦寻找的金矿。</p>
-]]></content>
-      <tags>
-        <tag>创业, 思考</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>足球让我快乐</title>
-    <url>/uncategorized/happyfootball/</url>
-    <content><![CDATA[<img src="/uncategorized/happyfootball/football.jpeg">
+    <title>《做饭电台》上线啦</title>
+    <url>/uncategorized/makefunfm/</url>
+    <content><![CDATA[<img src="/uncategorized/makefunfm/nitrome.jpg">
 
-<p>现在每天只要一有时间就去到楼下的足球场踢一会儿，更多是自己在玩。偶尔颠颠球，偶尔练习一下盘带和射门。玩的不亦乐乎。尤其是在工作了一段时间之后踢一会儿足球对心智帮助很大。</p>
-<h2 id="美丽的运动"><a href="#美丽的运动" class="headerlink" title="美丽的运动"></a>美丽的运动</h2><p>在我眼里足球是一项美丽的运动。就像马拉多纳说的我是不完美的，但是足球是完美的。用双脚和身体触碰足球的不同部位，总是能产生不同的结果和反馈。尤其是对足球的控制让我着迷。很多时候感觉不是在运动而是在跳舞。节奏和韵律存在于每一次的触球和传球当中。身体重心的摇晃伴随着射门的声音，这可能是最美妙的音乐了。</p>
-<h2 id="文化造就风格"><a href="#文化造就风格" class="headerlink" title="文化造就风格"></a>文化造就风格</h2><p>偶然间有机会让被拉进了一个外国友人的足球群。有英国的，法国的，德国的，意大利的，西班牙等等，不同肤色，不同文化，不同国籍的人在一起踢球。是一件很有趣的事情，尤其让我着迷的是不同的文化造就了不同的风格。南欧地区的人踢球激情四射，北欧和澳洲的人则更理性。最重要的是在场上的交流要比国内踢球要大得多。为每一次妙传喝彩，为每一次错误的选择抱怨。进球了以后来一句：“That’s what i am talking about!”，听着也特别爽。而且能看出来虽然从事着不同的行业，但是真的爱足球。我本身就是一个比较喜欢交流的人了，但是和他们相比我在场上还是太过木讷。</p>
-<h2 id="快乐更重要"><a href="#快乐更重要" class="headerlink" title="快乐更重要"></a>快乐更重要</h2><p>之前一直在想马拉多纳，齐达内，皮尔洛这些球星的想象力和对球的感觉从哪来。我在现实中貌似找到了答案，抛开训练、设施、环境这些因素，我觉得流淌在他们体内对快乐的追求可能才是一切的内因。相比于成绩、球星，如果有更多的人参与进来，快乐的踢球，哪怕不出成绩也挺好的：）</p>
+<p>做饭电台上线了，这是我独立运营和制作的播客节目。主要聊一些自己感兴趣的产品、公司、技术、商业等方面的内容。</p>
+<p>目前上了两个平台：喜马拉雅和网易云音乐。</p>
+<p>第一期节目讲了我很欣赏的游戏公司:nitrome。</p>
+<p>从nitrome的历史聊到我比较喜欢的作品，时间不长只有10多分钟，但是内容很硬核。</p>
+<p>希望能给你带来启发：）</p>
+<h2 id="收听链接"><a href="#收听链接" class="headerlink" title="收听链接"></a>收听链接</h2><img src="/uncategorized/makefunfm/makefun.png">
+
+<p>喜马拉雅: <a href="https://www.ximalaya.com/keji/38229063/" target="_blank" rel="noopener">https://www.ximalaya.com/keji/38229063/</a></p>
+<p>网易云音乐: <a href="https://music.163.com/#/program?id=2067276458" target="_blank" rel="noopener">https://music.163.com/#/program?id=2067276458</a></p>
 ]]></content>
       <tags>
-        <tag>足球</tag>
+        <tag>播客</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>make some noise</title>
-    <url>/uncategorized/noise/</url>
-    <content><![CDATA[<p>制造些噪声，哪怕有人会不喜欢，无所谓。</p>
-<h2 id="think-of-yourself-as-an-artists"><a href="#think-of-yourself-as-an-artists" class="headerlink" title="think of yourself as an artists"></a>think of yourself as an artists</h2><p>自己完成的每件作品，每一行代码，每一个设计，每一次和用户的接触，每一个idea的执行都当做自己的一件作品。<br>记住商业是最伟大的艺术。</p>
-<h2 id="break-some-rules"><a href="#break-some-rules" class="headerlink" title="break some rules"></a>break some rules</h2><p>打破既有的规则，打碎自己固有的观念，很多时候一个系统因为本身的复杂性让你产生了恐惧感。但是打碎它！</p>
-<h2 id="remix-it"><a href="#remix-it" class="headerlink" title="remix it"></a>remix it</h2><p>摇晃它，重新混合，让旧的事物通过重新remix产生新的活力。想象一下水果在榨汁机里面搅拌摇晃破碎的强烈声音。</p>
-<h2 id="we-all-gonna-die，why-copy"><a href="#we-all-gonna-die，why-copy" class="headerlink" title="we all gonna die，why copy?"></a>we all gonna die，why copy?</h2><p>我们都将死去，为什么不为这个世界带来一些不一样的东西呢？生物的多样性保证了大自然的发展，人类的多样性保证了社会的发展。</p>
-]]></content>
-  </entry>
-  <entry>
-    <title>耐心与过程</title>
-    <url>/uncategorized/patient/</url>
-    <content><![CDATA[<p>做产品和项目需要耐心，尤其是做原创。<br>很多时候人会低估时间的维度，每当看到一个完成品，脑中自动就切换到完成时的状态而不是中间的过程。</p>
-<p>任何事情从开始到完成都需要一个过程，这个过程中倾注了时间、精力和耐心。但是还是总是会忽略这些。</p>
-<p>为什么说享受过程很重要？因为和自己预估不符的时间周期会抹掉大部分人的热情和激情。能让人一直做下去的不是痛苦和坚持而是喜爱和耐心。</p>
-<p>一个有价值的产品是由核心和细节组成的。无论是打造核心还是打磨细节都需要时间。大时间周期的小步快跑要比急于求成更快的完成一件事情。</p>
-<p>2019年的目标就是：每天做好一件事情：）</p>
-]]></content>
   </entry>
   <entry>
     <title>如何做一款小而美的游戏</title>
@@ -449,19 +429,39 @@
       </tags>
   </entry>
   <entry>
-    <title>攻壳与消费</title>
-    <url>/uncategorized/shell/</url>
-    <content><![CDATA[<img src="/uncategorized/shell/shell.jpeg">
+    <title>小程序的的未来</title>
+    <url>/uncategorized/miniprogram/</url>
+    <content><![CDATA[<h2 id="回顾历史"><a href="#回顾历史" class="headerlink" title="回顾历史"></a>回顾历史</h2><img src="/uncategorized/miniprogram/App-Store.jpg">
 
-<p>中午吃饭的时候又看了一会儿攻壳机动队，我看的是电影版。<br>看到整个城市都是巨型的真人广告牌，当时想到的第一个观念就是《娱乐至死》这本书，以及未来的世界只有一小部分人创造价值，其他人都是“消费者”。</p>
-<p>不论是现在还是未来这个世界还是流量生意啊。只不过从现在的线上变成了无孔不入。尤其是贫民窟，更是无法躲避这种污染。当然这也没什么不好，因为资本主义的本质就是不断地消费。</p>
-<p>刚才还在想如果让我能够义体化，我会选择哪些器官。我最先考虑的就是肝和肺。这样我就可以无节制的喝酒和抽烟了。当然最好还有眼睛，这样无论多长时间的使用电脑，我都不会近视了。哈哈哈哈</p>
-<p>现在想想，未来世界人类和机器的结合最大的动力应该也是来自消费。</p>
-<p>消费万岁！</p>
+<p>2007年乔布斯发布iPhone的时候，当时是没有App Store的，苹果希望通过浏览器来发展h5应用。但是受限于当时的机能，h5应用是很难在体验和效率上和原生应用匹配的，直到2008年苹果才对外发布了SDK和App Store。紧接着开发者们如火如荼的为ios生态开发应用软件。塑造了苹果的行业地位。</p>
+<h2 id="App"><a href="#App" class="headerlink" title="App"></a>App</h2><p>App经过10多年的发展，ios生态越来越丰富，你几乎可以找到任何你需要的应用。但是并不是所有的场景App都可以满足。</p>
+<p>首先在分发上，用户每一次下载一个App的成本是极其高的，尤其是经过这么多年的发展，普通用户使用的App集中在一些超级应用上：微信，微博，淘宝，支付宝，抖音。其他App很难从这些App抢夺用户的时间，推广费用水涨船高，想要从头开始运营一款App的越来越难。</p>
+<p>其次在审核的部分，众所周知苹果的应用审核非常的严格，一方面造成了应用质量的提升，另一方面延长了开发商从发布到运营的整个流程。尤其是游戏部分的热更新，2017年3月份苹果明确告知热更新被明令禁止。直到现在也是模糊地带。之所以苹果对这部分热更新睁一只眼闭一只眼，也是因为本身他们也很清楚这种分发模型不能很好的满足用户。</p>
+<h2 id="Mini-Program"><a href="#Mini-Program" class="headerlink" title="Mini Program"></a>Mini Program</h2><img src="/uncategorized/miniprogram/wechat.jpeg">
+
+<img src="/uncategorized/miniprogram/facebook.jpeg">
+
+<p>2017年微信推出了微信小程序。小程序推出的目的就是在与降低用户的交易成本，达到无需下载，触手可达。紧接着包括头条、阿里、facebook等国内外的平台级应用也开始推出自己的小程序和小游戏。小程序可以很好的解决生产商和用户的痛点。</p>
+<p>在我眼里更重要的是小程序天然具有比App更好的开放性。之前关于Web已死的文章中已经提到移动互联网的封闭和开放。每一个App都是信息的孤岛，但是小程序是可以天生拥有更好的连接和开放性的。</p>
+<h2 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h2><p>通过现在的趋势以及随着5G的到来，将来的应用方式肯定是融合共存的。<br>平台级应用作为数字中枢承载用户的基础需求场景。其他的长尾需求则由小程序来承载。</p>
+<p>移动互联经过10多年的发展又回到了2007年iPhone的原点，只不过这次不是通过浏览器来承载h5应用而是通过平台级应用承载小程序。</p>
+<blockquote>
+<p>历史虽然不会重复，但却有韵律。</p>
+</blockquote>
 ]]></content>
       <tags>
-        <tag>攻壳机动队</tag>
+        <tag>小程序, iPhone, App Store</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>make some noise</title>
+    <url>/uncategorized/noise/</url>
+    <content><![CDATA[<p>制造些噪声，哪怕有人会不喜欢，无所谓。</p>
+<h2 id="think-of-yourself-as-an-artists"><a href="#think-of-yourself-as-an-artists" class="headerlink" title="think of yourself as an artists"></a>think of yourself as an artists</h2><p>自己完成的每件作品，每一行代码，每一个设计，每一次和用户的接触，每一个idea的执行都当做自己的一件作品。<br>记住商业是最伟大的艺术。</p>
+<h2 id="break-some-rules"><a href="#break-some-rules" class="headerlink" title="break some rules"></a>break some rules</h2><p>打破既有的规则，打碎自己固有的观念，很多时候一个系统因为本身的复杂性让你产生了恐惧感。但是打碎它！</p>
+<h2 id="remix-it"><a href="#remix-it" class="headerlink" title="remix it"></a>remix it</h2><p>摇晃它，重新混合，让旧的事物通过重新remix产生新的活力。想象一下水果在榨汁机里面搅拌摇晃破碎的强烈声音。</p>
+<h2 id="we-all-gonna-die，why-copy"><a href="#we-all-gonna-die，why-copy" class="headerlink" title="we all gonna die，why copy?"></a>we all gonna die，why copy?</h2><p>我们都将死去，为什么不为这个世界带来一些不一样的东西呢？生物的多样性保证了大自然的发展，人类的多样性保证了社会的发展。</p>
+]]></content>
   </entry>
   <entry>
     <title>聊一聊行动瘫痪</title>
@@ -496,6 +496,16 @@
       </tags>
   </entry>
   <entry>
+    <title>耐心与过程</title>
+    <url>/uncategorized/patient/</url>
+    <content><![CDATA[<p>做产品和项目需要耐心，尤其是做原创。<br>很多时候人会低估时间的维度，每当看到一个完成品，脑中自动就切换到完成时的状态而不是中间的过程。</p>
+<p>任何事情从开始到完成都需要一个过程，这个过程中倾注了时间、精力和耐心。但是还是总是会忽略这些。</p>
+<p>为什么说享受过程很重要？因为和自己预估不符的时间周期会抹掉大部分人的热情和激情。能让人一直做下去的不是痛苦和坚持而是喜爱和耐心。</p>
+<p>一个有价值的产品是由核心和细节组成的。无论是打造核心还是打磨细节都需要时间。大时间周期的小步快跑要比急于求成更快的完成一件事情。</p>
+<p>2019年的目标就是：每天做好一件事情：）</p>
+]]></content>
+  </entry>
+  <entry>
     <title>将心注入</title>
     <url>/uncategorized/pour/</url>
     <content><![CDATA[<img src="/uncategorized/pour/pour.jpg">
@@ -524,6 +534,21 @@
       </tags>
   </entry>
   <entry>
+    <title>攻壳与消费</title>
+    <url>/uncategorized/shell/</url>
+    <content><![CDATA[<img src="/uncategorized/shell/shell.jpeg">
+
+<p>中午吃饭的时候又看了一会儿攻壳机动队，我看的是电影版。<br>看到整个城市都是巨型的真人广告牌，当时想到的第一个观念就是《娱乐至死》这本书，以及未来的世界只有一小部分人创造价值，其他人都是“消费者”。</p>
+<p>不论是现在还是未来这个世界还是流量生意啊。只不过从现在的线上变成了无孔不入。尤其是贫民窟，更是无法躲避这种污染。当然这也没什么不好，因为资本主义的本质就是不断地消费。</p>
+<p>刚才还在想如果让我能够义体化，我会选择哪些器官。我最先考虑的就是肝和肺。这样我就可以无节制的喝酒和抽烟了。当然最好还有眼睛，这样无论多长时间的使用电脑，我都不会近视了。哈哈哈哈</p>
+<p>现在想想，未来世界人类和机器的结合最大的动力应该也是来自消费。</p>
+<p>消费万岁！</p>
+]]></content>
+      <tags>
+        <tag>攻壳机动队</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>从另一个角度看社交网络</title>
     <url>/uncategorized/socialnetwork/</url>
     <content><![CDATA[<p>最近重新注册了instagram, facebook, Tumblr,twitter,youtube。主要目的是用来给自己的独立站引流并运营自己的品牌。</p>
@@ -535,6 +560,31 @@
 ]]></content>
       <tags>
         <tag>社交网络</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>井深大对索尼的愿景</title>
+    <url>/uncategorized/sonydesign/</url>
+    <content><![CDATA[<img src="/uncategorized/sonydesign/walkman.jpg">
+
+<p>最近在阅读《索尼设计，塑造现代》。上一个像苹果一样让我发自内心的喜欢的公司就是索尼了。虽然进入移动互联网时代，索尼的存在感不像之前那么强，但是作为把模拟世界向数字世界转变的主要推动者，索尼的产品就算过了很多年回头去看还是有着自己独特的美学价值。</p>
+<p>在探究索尼是如何设计出这些产品的时候，我看到井深大在索尼初创的时候对未来的愿景，从中或许能找到有价值的信息：</p>
+<ul>
+<li>充分发挥勤勉认真的技术人员的技能，建立一个自由豁达，轻松愉快的理想工厂</li>
+<li>抛弃任何不正当追逐利润的行为，持续重视内容充实有实质意义的活动，不为了扩张而扩张</li>
+<li>尽力精心挑选产品线，迎接技术上的挑战，不管需求的数量是多少，只关注那些对社会有最大作用的，技术最尖端的产品</li>
+<li>要避免对电子，机械等形式的分类，而是结合这两个领域创造我们自己独特，让竞争对手无法超越的产品</li>
+<li>要严格挑选员工，公司应该只由必要的员工组成，尽力避免形式上的登记结构，而是以能力和人格为导向来组织，这样每个个体才能最大程度发挥自己的技术与才干</li>
+</ul>
+<img src="/uncategorized/sonydesign/1998_WM-EX9.gif">
+<img src="/uncategorized/sonydesign/2003_D-NE10.gif">
+
+
+<p>也难怪乔帮主也是索尼的粉丝。把上面的愿景拿到现在也一点都不过时。产品是人创造出来的，而公司的文化和愿景则可以把人聚拢到一起。</p>
+<p>在这里分享一个索尼walkman40周年的主题网站，上面有历代walkman的产品回顾。：<a href="https://www.sonystyle.com.cn/minisite/pa/media_player/walkman40th/index.htm" target="_blank" rel="noopener">https://www.sonystyle.com.cn/minisite/pa/media_player/walkman40th/index.htm</a></p>
+]]></content>
+      <tags>
+        <tag>索尼, 井深大</tag>
       </tags>
   </entry>
   <entry>
@@ -578,56 +628,6 @@
       </tags>
   </entry>
   <entry>
-    <title>小程序的的未来</title>
-    <url>/uncategorized/miniprogram/</url>
-    <content><![CDATA[<h2 id="回顾历史"><a href="#回顾历史" class="headerlink" title="回顾历史"></a>回顾历史</h2><img src="/uncategorized/miniprogram/App-Store.jpg">
-
-<p>2007年乔布斯发布iPhone的时候，当时是没有App Store的，苹果希望通过浏览器来发展h5应用。但是受限于当时的机能，h5应用是很难在体验和效率上和原生应用匹配的，直到2008年苹果才对外发布了SDK和App Store。紧接着开发者们如火如荼的为ios生态开发应用软件。塑造了苹果的行业地位。</p>
-<h2 id="App"><a href="#App" class="headerlink" title="App"></a>App</h2><p>App经过10多年的发展，ios生态越来越丰富，你几乎可以找到任何你需要的应用。但是并不是所有的场景App都可以满足。</p>
-<p>首先在分发上，用户每一次下载一个App的成本是极其高的，尤其是经过这么多年的发展，普通用户使用的App集中在一些超级应用上：微信，微博，淘宝，支付宝，抖音。其他App很难从这些App抢夺用户的时间，推广费用水涨船高，想要从头开始运营一款App的越来越难。</p>
-<p>其次在审核的部分，众所周知苹果的应用审核非常的严格，一方面造成了应用质量的提升，另一方面延长了开发商从发布到运营的整个流程。尤其是游戏部分的热更新，2017年3月份苹果明确告知热更新被明令禁止。直到现在也是模糊地带。之所以苹果对这部分热更新睁一只眼闭一只眼，也是因为本身他们也很清楚这种分发模型不能很好的满足用户。</p>
-<h2 id="Mini-Program"><a href="#Mini-Program" class="headerlink" title="Mini Program"></a>Mini Program</h2><img src="/uncategorized/miniprogram/wechat.jpeg">
-
-<img src="/uncategorized/miniprogram/facebook.jpeg">
-
-<p>2017年微信推出了微信小程序。小程序推出的目的就是在与降低用户的交易成本，达到无需下载，触手可达。紧接着包括头条、阿里、facebook等国内外的平台级应用也开始推出自己的小程序和小游戏。小程序可以很好的解决生产商和用户的痛点。</p>
-<p>在我眼里更重要的是小程序天然具有比App更好的开放性。之前关于Web已死的文章中已经提到移动互联网的封闭和开放。每一个App都是信息的孤岛，但是小程序是可以天生拥有更好的连接和开放性的。</p>
-<h2 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h2><p>通过现在的趋势以及随着5G的到来，将来的应用方式肯定是融合共存的。<br>平台级应用作为数字中枢承载用户的基础需求场景。其他的长尾需求则由小程序来承载。</p>
-<p>移动互联经过10多年的发展又回到了2007年iPhone的原点，只不过这次不是通过浏览器来承载h5应用而是通过平台级应用承载小程序。</p>
-<blockquote>
-<p>历史虽然不会重复，但却有韵律。</p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>小程序, iPhone, App Store</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>井深大对索尼的愿景</title>
-    <url>/uncategorized/sonydesign/</url>
-    <content><![CDATA[<img src="/uncategorized/sonydesign/walkman.jpg">
-
-<p>最近在阅读《索尼设计，塑造现代》。上一个像苹果一样让我发自内心的喜欢的公司就是索尼了。虽然进入移动互联网时代，索尼的存在感不像之前那么强，但是作为把模拟世界向数字世界转变的主要推动者，索尼的产品就算过了很多年回头去看还是有着自己独特的美学价值。</p>
-<p>在探究索尼是如何设计出这些产品的时候，我看到井深大在索尼初创的时候对未来的愿景，从中或许能找到有价值的信息：</p>
-<ul>
-<li>充分发挥勤勉认真的技术人员的技能，建立一个自由豁达，轻松愉快的理想工厂</li>
-<li>抛弃任何不正当追逐利润的行为，持续重视内容充实有实质意义的活动，不为了扩张而扩张</li>
-<li>尽力精心挑选产品线，迎接技术上的挑战，不管需求的数量是多少，只关注那些对社会有最大作用的，技术最尖端的产品</li>
-<li>要避免对电子，机械等形式的分类，而是结合这两个领域创造我们自己独特，让竞争对手无法超越的产品</li>
-<li>要严格挑选员工，公司应该只由必要的员工组成，尽力避免形式上的登记结构，而是以能力和人格为导向来组织，这样每个个体才能最大程度发挥自己的技术与才干</li>
-</ul>
-<img src="/uncategorized/sonydesign/1998_WM-EX9.gif">
-<img src="/uncategorized/sonydesign/2003_D-NE10.gif">
-
-
-<p>也难怪乔帮主也是索尼的粉丝。把上面的愿景拿到现在也一点都不过时。产品是人创造出来的，而公司的文化和愿景则可以把人聚拢到一起。</p>
-<p>在这里分享一个索尼walkman40周年的主题网站，上面有历代walkman的产品回顾。：<a href="https://www.sonystyle.com.cn/minisite/pa/media_player/walkman40th/index.htm" target="_blank" rel="noopener">https://www.sonystyle.com.cn/minisite/pa/media_player/walkman40th/index.htm</a></p>
-]]></content>
-      <tags>
-        <tag>索尼, 井深大</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Start Small</title>
     <url>/uncategorized/startsmall/</url>
     <content><![CDATA[<p>做事情上来就想的太复杂是我一直以来的问题。拿到一个新的技术，恨不得把所有的文档看完了才去做。做事情希望先把前期准备做的极尽的完善才去做。<br>当然上面这些从不同的角度来看也是好习惯，但是在做事情上却不是一个很好的习惯。</p>
@@ -637,40 +637,6 @@
 <p>先从一小步开始。这非常重要。<br>一个项目，先从第一行代码开始。<br>一个游戏，先从第一个核心玩法开始。<br>一个电商项目，先从选品开始。<br>一篇博客，先从标题和第一句话开始。<br>一个podcast, 先从录制第一句话开始。</p>
 <p>万事开头难，开头了都不难：）</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>抢占心智资源</title>
-    <url>/uncategorized/twohourbrand/</url>
-    <content><![CDATA[<img src="/uncategorized/twohourbrand/brand.jpg">
-
-<p>最近在阅读《2小时品牌素养》，内容深刻而且具有操作性。不管你是做一家公司还是开一家网店，这本书对于你都有锚点的作用，不会让你迷失在营销工具的海洋中。</p>
-<h2 id="主旨"><a href="#主旨" class="headerlink" title="主旨"></a>主旨</h2><ul>
-<li>任何一个成功的品牌都必须有一个定位，即占有一个心智资源</li>
-<li>任何一项经营活动都是为了协助品牌去建立、加强或巩固这个定位，以此影响顾客的购买决定</li>
-</ul>
-<p>全书的主旨就是上面两句话。你可以发现那些优秀的企业的所有的经营活动包括企业文化都是围绕着自己的定位展开的。</p>
-<ul>
-<li>沃尔沃汽车强调安全</li>
-<li>奔驰强调豪华</li>
-<li>宝马强调驾驶</li>
-<li>海飞丝强调去屑</li>
-<li>高露洁强调防蛀</li>
-</ul>
-<p>而那些失败的案例正好相反，这些企业总是想要通过原本强势的品牌进入到另一个市场，这样反倒侵蚀了心智资源，削弱了自己的定位，给了竞争对手可趁之机。</p>
-<ul>
-<li>TCL做电脑</li>
-<li>联想做手机</li>
-<li>红塔山做地板</li>
-<li>茅台做啤酒</li>
-</ul>
-<h2 id="实践"><a href="#实践" class="headerlink" title="实践"></a>实践</h2><blockquote>
-<p>建立品牌就是集中企业所有的力量去抢占心智资源。只有为品牌确立了定位，你才会有一致性的营销推广方向，才能评估出最佳的推广策略，才知道何种推广方式最适合自己。也只有这样，你才算是走对了方向，沿着一条可积累的道路快速高效地建立品牌，而不是陷入漫无方向的广告，使品牌不知所终。</p>
-</blockquote>
-<p>不管你是做一家企业还是开一家网店，一定要想清楚自己的定位。我的品牌需要抢占哪一个心智资源。想清楚了以后，一切的经营活动都要围绕着这个定位来进行。</p>
-]]></content>
-      <tags>
-        <tag>营销, 品牌</tag>
-      </tags>
   </entry>
   <entry>
     <title>品一杯好茶，睡一个好觉</title>
@@ -712,6 +678,63 @@
       </tags>
   </entry>
   <entry>
+    <title>抢占心智资源</title>
+    <url>/uncategorized/twohourbrand/</url>
+    <content><![CDATA[<img src="/uncategorized/twohourbrand/brand.jpg">
+
+<p>最近在阅读《2小时品牌素养》，内容深刻而且具有操作性。不管你是做一家公司还是开一家网店，这本书对于你都有锚点的作用，不会让你迷失在营销工具的海洋中。</p>
+<h2 id="主旨"><a href="#主旨" class="headerlink" title="主旨"></a>主旨</h2><ul>
+<li>任何一个成功的品牌都必须有一个定位，即占有一个心智资源</li>
+<li>任何一项经营活动都是为了协助品牌去建立、加强或巩固这个定位，以此影响顾客的购买决定</li>
+</ul>
+<p>全书的主旨就是上面两句话。你可以发现那些优秀的企业的所有的经营活动包括企业文化都是围绕着自己的定位展开的。</p>
+<ul>
+<li>沃尔沃汽车强调安全</li>
+<li>奔驰强调豪华</li>
+<li>宝马强调驾驶</li>
+<li>海飞丝强调去屑</li>
+<li>高露洁强调防蛀</li>
+</ul>
+<p>而那些失败的案例正好相反，这些企业总是想要通过原本强势的品牌进入到另一个市场，这样反倒侵蚀了心智资源，削弱了自己的定位，给了竞争对手可趁之机。</p>
+<ul>
+<li>TCL做电脑</li>
+<li>联想做手机</li>
+<li>红塔山做地板</li>
+<li>茅台做啤酒</li>
+</ul>
+<h2 id="实践"><a href="#实践" class="headerlink" title="实践"></a>实践</h2><blockquote>
+<p>建立品牌就是集中企业所有的力量去抢占心智资源。只有为品牌确立了定位，你才会有一致性的营销推广方向，才能评估出最佳的推广策略，才知道何种推广方式最适合自己。也只有这样，你才算是走对了方向，沿着一条可积累的道路快速高效地建立品牌，而不是陷入漫无方向的广告，使品牌不知所终。</p>
+</blockquote>
+<p>不管你是做一家企业还是开一家网店，一定要想清楚自己的定位。我的品牌需要抢占哪一个心智资源。想清楚了以后，一切的经营活动都要围绕着这个定位来进行。</p>
+]]></content>
+      <tags>
+        <tag>营销, 品牌</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>走出“绝望谷”</title>
+    <url>/uncategorized/vod/</url>
+    <content><![CDATA[<img src="/uncategorized/vod/civ1.png" title="文明1">
+
+<p>昨天在看席德梅尔讲文明系列的开发故事《How Sid Meier Almost Made Civilization a Real-Time Strategy》<a href="https://www.bilibili.com/video/BV1Xz4y1R7MA。" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1Xz4y1R7MA。</a><br>同样作为开发者最让我能产生共鸣的是对“绝望谷”的描述。</p>
+<h2 id="困境：绝望谷"><a href="#困境：绝望谷" class="headerlink" title="困境：绝望谷"></a>困境：绝望谷</h2><p>在刚开始开发文明系列的时候，他本来是要把游戏做成实时制。因为游戏的启发来自于《模拟人生》，模拟人生就是实时的展现游戏中的交互元素。所以席德梅尔想要在更大的范围内，模拟每一个文明的发展和灭亡。但是游戏开发到了一半，发现根本不好玩，同时游戏的节奏怎么都不对，最终项目放到了一边去做其他的产品了。</p>
+<img src="/uncategorized/vod/vod.jpg" title="Valley Of Despair">
+<p>上面就是文明系列经历的绝望谷。每一款产品只要是做原创，不管类型如何都会陷入绝望谷。仿佛走到了一个死胡同，从当时的视角来看，无论做任何调整都不满意。到了最后要么停止项目，要么彻底推倒重来。</p>
+<p>在经过了几个项目的开发以后，席德梅尔重新审视当时的文明项目，想到把实时制变成回合制。当项目变成回合制以后，魔力重新展现，游戏变得更好玩，一切的机制和元素都能很好的契合到这个节奏当中。</p>
+<p>任何项目不管前期经历了多少的思考，到开发的阶段一定会遇到绝望谷。人类的大脑没办法在前期穷尽所有的可能性，只有在做的过程当中，一些答案才会清晰起来。前期的构思阶段更多是帮你降低决策的成本，但是这个成本永远会在那里等着你。</p>
+<h2 id="走出绝望谷"><a href="#走出绝望谷" class="headerlink" title="走出绝望谷"></a>走出绝望谷</h2><p>如何走出绝望谷？说实话，我也不知道。回想自己做游戏的这些年，但凡是做原创的游戏，都会遇到这样那样的困境。我硬盘里面大量的游戏原型和半成品每天都在提醒我做出好的东西有多难。</p>
+<p>在文明系列停止以后，席德梅尔期间完成了《隐秘行动》的开发工作。这是一款回合制的潜入游戏。可能是受到了这款游戏的影响，在引入了回合制以后，文明系列活了过来。</p>
+<p>席德梅尔给出的建议：<strong>先停下来、尝试新的的东西、用全新的眼光审视之前遇到的问题</strong>。</p>
+<img src="/uncategorized/vod/aoe.jpeg" title="帝国时代1">
+
+<p>最有趣的是席德梅尔的合伙人在离开了他以后做出了《帝国时代》系列。他自己本人也承认如果当时文明朝着实时制进展，最终展现出来的可能就是帝国时代。在一个更小的地图上，缩小决策范围，实时的影响游戏的进程。可以看到帝国时代走到了文明的相反的一面。但是同样保留了科技树等有趣的点子。</p>
+<h2 id="寄语"><a href="#寄语" class="headerlink" title="寄语"></a>寄语</h2><p>希望每一个做东西的人都能走出自己的绝望谷。也希望那些躺在自己硬盘里的项目能有一天重新焕发魔力，和大家见面：）</p>
+]]></content>
+      <tags>
+        <tag>文明, 帝国时代, 绝望谷, 席德梅尔</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>拥抱营销</title>
     <url>/uncategorized/whatismarketing/</url>
     <content><![CDATA[<img src="/uncategorized/whatismarketing/cola.jpg">
@@ -727,26 +750,6 @@
 ]]></content>
       <tags>
         <tag>marketing</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>未来地图</title>
-    <url>/uncategorized/wtf/</url>
-    <content><![CDATA[<img src="/uncategorized/wtf/image.jpg">
-
-<p>最近在阅读Tim O’Reilly的《未来地图》，还没读完，作为提出web2.0的概念的始作俑者，他在这本书中谈到了他对未来商业和技术的看法。</p>
-<p>我觉得最有价值的章节就是对新一代经济的商业模型图。在这里分享给大家。当然没人可以预测未来，人类对于未来的预测是很糟糕的。但是相比较于未来的预测，Tim O’Reilly给出了一张思维地图，让你自己来填写。感兴趣的人可以看一下他在google发表的演讲：<a href="https://www.youtube.com/watch?v=s3ha6vHapcI" target="_blank" rel="noopener">Tim O’Reilly: “WTF?: What’s the Future and Why It’s Up to Us” | Talks at Google - YouTube</a></p>
-<h2 id="新一地商业经济模型图"><a href="#新一地商业经济模型图" class="headerlink" title="新一地商业经济模型图"></a>新一地商业经济模型图</h2><h3 id="用信息替代物质"><a href="#用信息替代物质" class="headerlink" title="用信息替代物质"></a>用信息替代物质</h3><p>从1960年到2010年多数的汽车重量都增加了一倍，目的是为了防碰撞和安全。但是如果汽车变得非常智能和自动化，永远都不会发生碰撞，则可以去掉这些重量。</p>
-<p>不管是柔性供应链还是特斯拉的超级工厂，我们都能看到信息正在逐渐取代物质的趋势。</p>
-<h3 id="网络化市场平台"><a href="#网络化市场平台" class="headerlink" title="网络化市场平台"></a>网络化市场平台</h3><p>Netflix,Uber,Facebook,Amazon,淘宝,Youtube,Bilibili,Twitter,Apple都通过自己的产品和服务创造了双边的供需市场。用算法来管理平台，释放了巨大的力量。</p>
-<h3 id="按需服务"><a href="#按需服务" class="headerlink" title="按需服务"></a>按需服务</h3><p>减少闲置资源的浪费，提高市场的效率和流动性，快速且低成本的匹配需求和供给。这里的按需服务也包括了人力和资源。</p>
-<h3 id="算法管理"><a href="#算法管理" class="headerlink" title="算法管理"></a>算法管理</h3><p>未来的商业模型一定是自动化和计算密集型的。我们也将会越来越依赖算法给我们带来的好处。</p>
-<h3 id="加强版员工"><a href="#加强版员工" class="headerlink" title="加强版员工"></a>加强版员工</h3><p>uber提高了司机导航和找到乘客的能力。<br>医生借助大数据快速定位患者的问题。<br>建筑师通过增强现实对施工现场快速建模。</p>
-<h3 id="魔幻版用户体验"><a href="#魔幻版用户体验" class="headerlink" title="魔幻版用户体验"></a>魔幻版用户体验</h3><p>这个就是Aha moment。在你没有体验过的时候，甚至无法想象会是什么样的，但是体验了以后你就回不去了。推开一扇门看到了未来。</p>
-<h2 id="未来迷人且不确定"><a href="#未来迷人且不确定" class="headerlink" title="未来迷人且不确定"></a>未来迷人且不确定</h2><p>2020年以来见到了太多的黑天鹅，甚至都有些见怪不怪了。深切的感受到有多股巨大的力量在推动着这个世界走向一个新的方向。未来是不确定的但是又是迷人的。</p>
-]]></content>
-      <tags>
-        <tag>书籍</tag>
       </tags>
   </entry>
   <entry>
@@ -778,26 +781,23 @@
       </tags>
   </entry>
   <entry>
-    <title>走出“绝望谷”</title>
-    <url>/uncategorized/vod/</url>
-    <content><![CDATA[<img src="/uncategorized/vod/civ1.png" title="文明1">
+    <title>未来地图</title>
+    <url>/uncategorized/wtf/</url>
+    <content><![CDATA[<img src="/uncategorized/wtf/image.jpg">
 
-<p>昨天在看席德梅尔讲文明系列的开发故事《How Sid Meier Almost Made Civilization a Real-Time Strategy》<a href="https://www.bilibili.com/video/BV1Xz4y1R7MA。" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1Xz4y1R7MA。</a><br>同样作为开发者最让我能产生共鸣的是对“绝望谷”的描述。</p>
-<h2 id="困境：绝望谷"><a href="#困境：绝望谷" class="headerlink" title="困境：绝望谷"></a>困境：绝望谷</h2><p>在刚开始开发文明系列的时候，他本来是要把游戏做成实时制。因为游戏的启发来自于《模拟人生》，模拟人生就是实时的展现游戏中的交互元素。所以席德梅尔想要在更大的范围内，模拟每一个文明的发展和灭亡。但是游戏开发到了一半，发现根本不好玩，同时游戏的节奏怎么都不对，最终项目放到了一边去做其他的产品了。</p>
-<img src="/uncategorized/vod/vod.jpg" title="Valley Of Despair">
-<p>上面就是文明系列经历的绝望谷。每一款产品只要是做原创，不管类型如何都会陷入绝望谷。仿佛走到了一个死胡同，从当时的视角来看，无论做任何调整都不满意。到了最后要么停止项目，要么彻底推倒重来。</p>
-<p>在经过了几个项目的开发以后，席德梅尔重新审视当时的文明项目，想到把实时制变成回合制。当项目变成回合制以后，魔力重新展现，游戏变得更好玩，一切的机制和元素都能很好的契合到这个节奏当中。</p>
-<p>任何项目不管前期经历了多少的思考，到开发的阶段一定会遇到绝望谷。人类的大脑没办法在前期穷尽所有的可能性，只有在做的过程当中，一些答案才会清晰起来。前期的构思阶段更多是帮你降低决策的成本，但是这个成本永远会在那里等着你。</p>
-<h2 id="走出绝望谷"><a href="#走出绝望谷" class="headerlink" title="走出绝望谷"></a>走出绝望谷</h2><p>如何走出绝望谷？说实话，我也不知道。回想自己做游戏的这些年，但凡是做原创的游戏，都会遇到这样那样的困境。我硬盘里面大量的游戏原型和半成品每天都在提醒我做出好的东西有多难。</p>
-<p>在文明系列停止以后，席德梅尔期间完成了《隐秘行动》的开发工作。这是一款回合制的潜入游戏。可能是受到了这款游戏的影响，在引入了回合制以后，文明系列活了过来。</p>
-<p>席德梅尔给出的建议：<strong>先停下来、尝试新的的东西、用全新的眼光审视之前遇到的问题</strong>。</p>
-<img src="/uncategorized/vod/aoe.jpeg" title="帝国时代1">
-
-<p>最有趣的是席德梅尔的合伙人在离开了他以后做出了《帝国时代》系列。他自己本人也承认如果当时文明朝着实时制进展，最终展现出来的可能就是帝国时代。在一个更小的地图上，缩小决策范围，实时的影响游戏的进程。可以看到帝国时代走到了文明的相反的一面。但是同样保留了科技树等有趣的点子。</p>
-<h2 id="寄语"><a href="#寄语" class="headerlink" title="寄语"></a>寄语</h2><p>希望每一个做东西的人都能走出自己的绝望谷。也希望那些躺在自己硬盘里的项目能有一天重新焕发魔力，和大家见面：）</p>
+<p>最近在阅读Tim O’Reilly的《未来地图》，还没读完，作为提出web2.0的概念的始作俑者，他在这本书中谈到了他对未来商业和技术的看法。</p>
+<p>我觉得最有价值的章节就是对新一代经济的商业模型图。在这里分享给大家。当然没人可以预测未来，人类对于未来的预测是很糟糕的。但是相比较于未来的预测，Tim O’Reilly给出了一张思维地图，让你自己来填写。感兴趣的人可以看一下他在google发表的演讲：<a href="https://www.youtube.com/watch?v=s3ha6vHapcI" target="_blank" rel="noopener">Tim O’Reilly: “WTF?: What’s the Future and Why It’s Up to Us” | Talks at Google - YouTube</a></p>
+<h2 id="新一地商业经济模型图"><a href="#新一地商业经济模型图" class="headerlink" title="新一地商业经济模型图"></a>新一地商业经济模型图</h2><h3 id="用信息替代物质"><a href="#用信息替代物质" class="headerlink" title="用信息替代物质"></a>用信息替代物质</h3><p>从1960年到2010年多数的汽车重量都增加了一倍，目的是为了防碰撞和安全。但是如果汽车变得非常智能和自动化，永远都不会发生碰撞，则可以去掉这些重量。</p>
+<p>不管是柔性供应链还是特斯拉的超级工厂，我们都能看到信息正在逐渐取代物质的趋势。</p>
+<h3 id="网络化市场平台"><a href="#网络化市场平台" class="headerlink" title="网络化市场平台"></a>网络化市场平台</h3><p>Netflix,Uber,Facebook,Amazon,淘宝,Youtube,Bilibili,Twitter,Apple都通过自己的产品和服务创造了双边的供需市场。用算法来管理平台，释放了巨大的力量。</p>
+<h3 id="按需服务"><a href="#按需服务" class="headerlink" title="按需服务"></a>按需服务</h3><p>减少闲置资源的浪费，提高市场的效率和流动性，快速且低成本的匹配需求和供给。这里的按需服务也包括了人力和资源。</p>
+<h3 id="算法管理"><a href="#算法管理" class="headerlink" title="算法管理"></a>算法管理</h3><p>未来的商业模型一定是自动化和计算密集型的。我们也将会越来越依赖算法给我们带来的好处。</p>
+<h3 id="加强版员工"><a href="#加强版员工" class="headerlink" title="加强版员工"></a>加强版员工</h3><p>uber提高了司机导航和找到乘客的能力。<br>医生借助大数据快速定位患者的问题。<br>建筑师通过增强现实对施工现场快速建模。</p>
+<h3 id="魔幻版用户体验"><a href="#魔幻版用户体验" class="headerlink" title="魔幻版用户体验"></a>魔幻版用户体验</h3><p>这个就是Aha moment。在你没有体验过的时候，甚至无法想象会是什么样的，但是体验了以后你就回不去了。推开一扇门看到了未来。</p>
+<h2 id="未来迷人且不确定"><a href="#未来迷人且不确定" class="headerlink" title="未来迷人且不确定"></a>未来迷人且不确定</h2><p>2020年以来见到了太多的黑天鹅，甚至都有些见怪不怪了。深切的感受到有多股巨大的力量在推动着这个世界走向一个新的方向。未来是不确定的但是又是迷人的。</p>
 ]]></content>
       <tags>
-        <tag>文明, 帝国时代, 绝望谷, 席德梅尔</tag>
+        <tag>书籍</tag>
       </tags>
   </entry>
 </search>
