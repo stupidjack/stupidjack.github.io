@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://punkbear.fun/"/>
-  <updated>2020-06-26T11:18:18.093Z</updated>
+  <updated>2020-07-16T07:48:06.892Z</updated>
   <id>http://punkbear.fun/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>《做饭电台》第二期 策略游戏与极简化设计</title>
+    <link href="http://punkbear.fun/uncategorized/makefun2/"/>
+    <id>http://punkbear.fun/uncategorized/makefun2/</id>
+    <published>2020-07-16T07:45:33.000Z</published>
+    <updated>2020-07-16T07:48:06.892Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="mini-metro"><a href="#mini-metro" class="headerlink" title="mini metro"></a>mini metro</h2><p><a href="https://www.youtube.com/watch?v=kmHXk4Y35QM" target="_blank" rel="noopener">https://www.youtube.com/watch?v=kmHXk4Y35QM</a></p><p>what is the game about?</p><ul><li>building efficient networks 搭建高效的网络</li><li>minimalism 极简主义</li><li>city planing 城市规划</li></ul><p>追溯灵感的源泉：<br>London tube map</p><img src="/uncategorized/makefun2/1.png"><ul><li>observing 观察</li><li>decoding 解构</li><li>experimenting 实验</li><li>discovery 发现</li><li>learning 学习</li></ul><p>UI/UX:</p><ol><li>New User Flow(Tutorial):把复杂的系统拆分单个的组件，然后让单个的组件顺序的有节奏的展示给玩家。需要大量的测试；不要觉得需要解释每一件事情；不要有文字</li><li>In Game UI：把功能做到游戏中，而不是通过hud间接的控制；简单的规则；对特效和刺激非常节制。</li><li>UI Flow：去掉排行榜不给用户造成社交压力与竞争压力；转而使用个人的分数让自己看到进步；避免meta structure</li></ol><img src="/uncategorized/makefun2/2.png"><img src="/uncategorized/makefun2/3.png"><p>书籍：《New york city transit authority: Graphics standards manual》</p><p>Mini Metro Takeaways</p><ul><li>understand your game 理解你的游戏</li><li>design ui and ux to support and enhance this ui和ux的设计都要围绕这个核心体验</li><li>be mindful of what your ui emphasises  </li><li>trust your players 相信自己的玩家</li><li>build a visual language </li><li>iterate</li></ul><h2 id="瘟疫公司"><a href="#瘟疫公司" class="headerlink" title="瘟疫公司"></a>瘟疫公司</h2><p><a href="https://www.youtube.com/watch?v=Izi9dnPwgr0" target="_blank" rel="noopener">https://www.youtube.com/watch?v=Izi9dnPwgr0</a><br><a href="https://www.youtube.com/watch?v=oB8LhpGPqWA" target="_blank" rel="noopener">https://www.youtube.com/watch?v=oB8LhpGPqWA</a></p><p>从excel开始建模</p><img src="/uncategorized/makefun2/4.png"><p>新闻让游戏和现实的壁垒被打破</p><p>Dont try to squeeze everything in:</p><ul><li>simplify</li><li>select</li><li>focus</li><li>exaggerate</li></ul><p>Educating by accident:<br>玩游戏是第一位的，教育是偶然的</p><ul><li>Let reality guide design</li><li>real issue and mechanics</li><li>real events</li><li>real data sets.(World development indicators)</li></ul><p>有趣的是开发者的演示中说有时候你需要把事情搞错才能搞对，这里面举了伦敦地铁的例子，地铁图其实不是真实地铁路线的呈现，而是抽象的模拟。人们对真实地铁路线会觉得复杂难以理解，所以通过简单的直线连接，人们能够更清楚的找到自己的乘车路线。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;mini-metro&quot;&gt;&lt;a href=&quot;#mini-metro&quot; class=&quot;headerlink&quot; title=&quot;mini metro&quot;&gt;&lt;/a&gt;mini metro&lt;/h2&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch
+      
+    
+    </summary>
+    
+    
+    
+      <category term="做饭电台" scheme="http://punkbear.fun/tags/%E5%81%9A%E9%A5%AD%E7%94%B5%E5%8F%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>《Mario Run》的关卡设计（一）</title>
     <link href="http://punkbear.fun/uncategorized/mariorun/"/>
     <id>http://punkbear.fun/uncategorized/mariorun/</id>
     <published>2020-06-26T10:25:01.000Z</published>
-    <updated>2020-06-26T11:18:18.093Z</updated>
+    <updated>2020-06-26T11:36:54.771Z</updated>
     
     <content type="html"><![CDATA[<img src="/uncategorized/mariorun/mario0.jpg"><p>《Mario Run》在2016年12月5日正式上线，到现在已经过去3年半了。虽然已经是一款老游戏了，但是在所有手机上的平台跳跃类的游戏中，这款游戏依然是我心中的No.1。当然《雷曼》的关卡设计也非常棒，但是作为一个pocket gamer的原教旨主义者。竖屏的马里奥在我心中还是无可匹敌。</p><p>关卡设计一直以来都是马里奥系列的玩法核心。在看了GMTK的《How to make your first Super Mario Maker Level》的视频以后，重新拿起来手机上的这款马里奥，除了体验到玩法的乐趣还能看到任天堂的设计师是怎么样在触摸屏上原汁原味的还原马里奥系列的精髓。</p><p>下面我从《Mario Run》的关卡中抽出去自己最喜欢的关卡片段，分享一下自己的思考。</p><h2 id="熟悉的配方，熟悉的味道"><a href="#熟悉的配方，熟悉的味道" class="headerlink" title="熟悉的配方，熟悉的味道"></a>熟悉的配方，熟悉的味道</h2><p>下面这个是World 1-2中的关卡片段。通过一开始的布局交代了这个关卡的主机制：<strong>踢墙反弹</strong>。这个布局中没有敌人可以让玩家在<strong>安全可控</strong>的条件下熟悉这个主机制。</p><img src="/uncategorized/mariorun/mario1.png"><p>接下来玩家跳到墙上以后，会遇到如下的布局：</p><img src="/uncategorized/mariorun/mario2.png"><p>这个部分就考虑到<strong>层层递进</strong>，增加了板栗仔，加大了关卡的难度同时增加了金币的数量，强烈的吸引玩家要在此使用<strong>踢墙反弹</strong>来到达屏幕的上方。</p><p>接下来就出现了<strong>弹簧床</strong>，这是玩家第一次遇到这个道具，同时在右上角还有食人花和问号。</p><img src="/uncategorized/mariorun/mario3.png"><p>通过<strong>组合</strong>弹簧床，食人花，问号形成新的机制。同时增加了难度和趣味性。</p><p>在接下来可以看到<strong>弹簧床</strong>和<strong>踢墙反弹</strong>的组合：</p><img src="/uncategorized/mariorun/mario4.png"><p>在马里奥游戏中到处都能看到这些基本互动机制的组合。很多机制都是之前见过的，但是通过引入新的道具、敌人，原来旧的机制又能产生新鲜感。这就是优雅设计的基础。</p><h2 id="在触摸屏上再造马里奥"><a href="#在触摸屏上再造马里奥" class="headerlink" title="在触摸屏上再造马里奥"></a>在触摸屏上再造马里奥</h2><p>上面的关卡设计是马里奥系列一以贯之的设计哲学，但是我一直好奇任天堂的设计师是如何在触摸屏上再现马里奥的精髓？在玩到这个地方的时候我有些明白了。</p><img src="/uncategorized/mariorun/mario5.png"><img src="/uncategorized/mariorun/mario6.png"><p>上面是World 2-1关卡。因为在手机上的马里奥是跑酷游戏，但是又不同于其他一直前进的跑酷游戏， 没有节奏的变化，时间长了容易让玩家觉得单调和无聊。而这个关卡的设计非常好的规避了上面的问题。</p><p>首先马里奥进入关卡以后，会在红色的方块处停住，相机会调整到可以看到整个关卡的布局，然后不再移动。这个时候通过结合解谜和跑酷，引入节奏的变化，让玩家在关卡中来回探索。</p><h2 id="Copy-and-Steal-The-Process"><a href="#Copy-and-Steal-The-Process" class="headerlink" title="Copy and Steal The Process"></a>Copy and Steal The Process</h2><p>以上就是我对《Mario Run》这款游戏关卡设计的思考。都说<strong>good artists borrow, great artists steal</strong>，这里面的steal更多是借鉴和学习思考过程，而不是最终的结果。</p><p>希望我们都能做出来好的设计，给玩家带来快乐。</p><h2 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h2><p><a href="https://www.bilibili.com/video/BV1Dx411f7y2" target="_blank" rel="noopener">https://www.bilibili.com/video/BV1Dx411f7y2</a></p>]]></content>
     
@@ -503,35 +527,6 @@
     
     
       <category term="认知, 内隐" scheme="http://punkbear.fun/tags/%E8%AE%A4%E7%9F%A5-%E5%86%85%E9%9A%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>一杯咖啡吸收宇宙能量</title>
-    <link href="http://punkbear.fun/uncategorized/coffeandhuawei/"/>
-    <id>http://punkbear.fun/uncategorized/coffeandhuawei/</id>
-    <published>2019-01-22T10:29:42.000Z</published>
-    <updated>2019-06-17T17:02:48.290Z</updated>
-    
-    <content type="html"><![CDATA[<img src="/uncategorized/coffeandhuawei/huawei.jpg"><p>看了任正非最近接受采访的访谈稿。1万多字，读起来一点也累。说话直指问题核心，受益匪浅。</p><p>最让我有感触的是两点：</p><ol><li>深刻的危机意识</li><li>对于“自主创新”的看法</li></ol><h2 id="危机意识"><a href="#危机意识" class="headerlink" title="危机意识"></a>危机意识</h2><p>之前就看过任正非给内部写的信。最大的感触就是他对当前的华为不满意。在所有人都看衰你的时候不是最危险的，最危险的时候是所有人都看好你的时候。没办法这个就是人类进化的漏洞。在取得成绩的时候大脑自动会分泌让人愉悦的化学物质，会产生对当前环境的误判。会莫名其妙得把当前的成功归功于自己的能力，而不是环境使然。这种认知失调不但会影响你的判断和决策能力，同时也会让你产生骄傲的情绪。革别人的命容易，革自己的命难得太多太多。</p><p>当生活安逸舒适，产生倦怠感是不可避免的。只有你有一个更高的目标和使命的时候，你才会正确客观的分析现在的状况。我认为就是因为当前的成绩和自己的目标相比微不足道，人们才会收起骄傲自满，收拾好行囊开始下一段旅程。</p><h2 id="自主创新"><a href="#自主创新" class="headerlink" title="自主创新"></a>自主创新</h2><p>不要闭门造车。在尖端科技领域没办法购买，当然要靠自主创新。但是在工程领域，产品领域的创新，要用开放的心态去接纳别人的劳动成果。当然是在尊重原创的基础上，而不是山寨和盗版。</p><p>当前做的产品要站在客户的角度，而不是国家之间的政治形态。一切以客户为出发点。意识形态的对立和外交的起伏不应该与产品研发形成相关性。</p><p>回顾自己做产品的过程，刚开始总是想要从基础框架级别就用自己的代码。现在想来很浪费时间。最终目的是做产品。产品是一切的归根和内因。</p><h2 id="最后谈一下教育"><a href="#最后谈一下教育" class="headerlink" title="最后谈一下教育"></a>最后谈一下教育</h2><p>作为一个从小就不爱“学习”，不爱考试的人，真的要感谢互联网的高速发展，以及大量的免费和收费的教育资源，让我可以足不出户在家里学习感兴趣的东西同时认识很多志同道合的朋友。现在回过头来想，虽然生在一个小县城，信息闭塞，但是幸亏很早就接触了电脑，让我打开了眼界。读了很多有意思的书。这样才避免了做井底之蛙。回头想想，自己是幸运的。</p><p>但是通过网络也看到很多的农村孩子没有很好的教育资源。不单是基础教育，包括绘画，音乐等人文学科也很匮乏。希望自己将来做的产品能够在这方面贡献一份绵薄的力量。</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;img src=&quot;/uncategorized/coffeandhuawei/huawei.jpg&quot;&gt;
-
-&lt;p&gt;看了任正非最近接受采访的访谈稿。1万多字，读起来一点也累。说话直指问题核心，受益匪浅。&lt;/p&gt;
-&lt;p&gt;最让我有感触的是两点：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;深刻的危机意识
-      
-    
-    </summary>
-    
-    
-    
-      <category term="华为, 危机意识，自主创新，教育" scheme="http://punkbear.fun/tags/%E5%8D%8E%E4%B8%BA-%E5%8D%B1%E6%9C%BA%E6%84%8F%E8%AF%86%EF%BC%8C%E8%87%AA%E4%B8%BB%E5%88%9B%E6%96%B0%EF%BC%8C%E6%95%99%E8%82%B2/"/>
     
   </entry>
   
